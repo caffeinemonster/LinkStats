@@ -19,10 +19,25 @@ extracts links
 datamining app for links 
 pass it any type of text file then it will extract links, emails, uris and make stats for the links it finds
 
-features include graphing, popular domains, view source or a link, get ip of a link/domain, preview in system browser, preview in built in browser and some more stuff im working on
+-Lists popular domains
+-Lists links
+-Lists all country code top level domain
+-Lists all top level domains
+-Lists file extension
+-Lists emails
+-Lists URIS
+-Search/filter data in application
+-Graphs popular domains
+-Built in browser for previewing pages
+-Options to launch the system default browser
+-Get domain/urls ip
+-View url source code
+-Get url page title
+-Treeview display of links/domain/stats
+-And many more
 
-supports over 300 extension types by default
-also every CC top level domain and all top level domains
+supports 300+ support file extension types by default
+also every country code top level domain and all top level domains
 
 suggesting some more features?
 #hakology irc.secfo.org
