@@ -16,8 +16,7 @@ framework4
 reads text files 
 extracts links
 
-datamining app for links 
-pass it any type of text file then it will extract links, emails, uris and make stats for the links it finds
+datamining app for links - pass it any type of text file / url it then will extract links, emails, uris and make stats for the links it finds
 
 -Lists popular domains
 -Lists links
