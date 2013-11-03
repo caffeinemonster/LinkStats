@@ -34,6 +34,7 @@ datamining app for links - pass it any type of text file / url it then will extr
 -View url source code
 -Get url page title
 -Treeview display of links/domain/stats
+-URL archive add/clear/export/load
 -And many more
 
 supports 1400+ file extension types by default
