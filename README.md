@@ -36,7 +36,7 @@ pass it any type of text file then it will extract links, emails, uris and make 
 -Treeview display of links/domain/stats
 -And many more
 
-supports 300+ support file extension types by default
+supports 1000+ file extension types by default
 also every country code top level domain and all top level domains
 
 suggesting some more features?
