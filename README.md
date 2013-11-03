@@ -30,12 +30,13 @@ datamining app for links - pass it any type of text file / url it then will extr
 -Built in browser for previewing pages
 -Options to launch the system default browser
 -Get domain/urls ip
+-Download URL/File
 -View url source code
 -Get url page title
 -Treeview display of links/domain/stats
 -And many more
 
-supports 1000+ file extension types by default
+supports 1300+ file extension types by default
 also every country code top level domain and all top level domains
 
 suggesting some more features?
