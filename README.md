@@ -39,7 +39,5 @@ datamining app for links - pass it any type of text file / url it then will extr
 supports 1300+ file extension types by default
 also every country code top level domain and all top level domains
 
-suggesting some more features?
+suggest some more features?
 #hakology irc.secfo.org
-
-more updates soon
