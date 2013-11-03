@@ -7,7 +7,7 @@ framework4
 reads text files 
 extracts links
 
-LinkStats - v20.13.10.1
+LinkStats - v20.0.13.10.10
 =====================
 
 Analyses links
