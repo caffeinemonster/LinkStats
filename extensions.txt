@@ -1,509 +1,56 @@
-ACE - ACE Archiver compression file.
-AIF - Audio Interchange File used with SGI and Macintosh applications.
-ANI - Animated cursors used in Microsoft Windows.
-API - Application Program Interface.
-ART - Clipart.
-ASC - ASCII text file.
-ASM - Assembler code.
-ASP - Microsoft Active Server Page.
-AVI - Audio/Video Interleaved used for Windows based movies.
-BAK - Backup Files.
-BAS - BASIC programming language sourcecode.
-BAT - MSDOS batch file.
-BFC - Briefcase document used in Windows.
-BIN - Binary File.
-BMP - Bitmap format.
-BUD - Backup Disk for Quicken by Intuit.
-BZ2 - Bzip2 compressed files.
-C - C source file.
-CAT - Security Catalog file.
-CBL - Cobol code.
-CBT - Computer Based Training.
-CDA - Compact Disc Audio Track.
-CDT - Corel Draw Template file.
-CFML - ColdFusion Markup Language.
-CGI - Common Gateway Interface. Web based programs and scripts.
-CHM - Compiled HTML Help files used by Windows.
-CLASS - Javascript Class file.
-CLP - Windows Clipboard file.
-CMD - Dos Command File.
-COM - Command File.
-CPL - Control panel item The settings in Control Panels represent
-CPL files in the Windows\System folder.
-CPP - C++ programming language source code.
-CSS - Cascading Style Sheet. Creates a common style reference for a set of web pages.
-CSV - Comma Separated Values format.
-CMF - Corel Metafile.
-CUR - Cursor in Microsoft Windows.
-DAO - Registry Backup file for Windows registry.
-DAT - Data file.
-DD - Compressed Archive by Macintosh DiskDoubler.
-DEB - Debian packages.
-DEV - Device Driver.
-DIC - Dictionary file.
-DIR - Macromedia Director file.
-DLL - Dynamic Linked Library. Microsoft application file.
-DOC - Document format for Word Perfect and Microsoft Word.
-DOT - Microsoft Word Template.
-DRV - Device Driver.
-DS - TWAIN Data source file.
-DUN - Dial-up networking configuration file.
-DWG - Autocad drawing.
-DXF - Autocad drawing exchange format file.
-EMF - Enhanced Windows Metafile.
-EML - Microsoft Outlook e-mail file.
-EPS - Encapsulated PostScript supported by most graphics programs.
-EPS2 - Adobe PostScript Level II Encapsulated Postscript.
-EXE - DOS based executable file which is also known as a program.
-FFL - Microsoft Fast Find file.
-FFO - Microsoft Fast Find file.
-FLA - Macromedia Flash movie format.
-FNT - Font file.
-GIF - Graphics Interchange Format that supports animation. Created by CompuServe and used primarily for web use.
-GID - Windows global index. Contains the index information used by "Help" in Windows.
-GRP - Microsoft Program Manager Group.
-GZ - Unix compressed file.
-HEX - Macintosh binary hex(binhex) file.
-HLP - Standard help file.
-HT - HyperTerminal files.
-HQX - Macintosh binary hex(binhex) file.
-HTM - Hyper Text Markup. This markup language is used for web design.
-HTML - Hyper Text Markup Language. This markup language is used for web design.
-ICL - Icon Library File.
-ICM - Image Color Matching profile.
-ICO - Microsoft icon image.
-INF - Information file used in Windows.
-INI - Initialization file used in Windows.
-JAR - Java Archive. A compressed java file format.
-JPEG - Compression scheme supported by most graphics programs and used predominantly for web use.
-JPG - More common extension for JPEG described above.
-JS - JavaScript File A text file containing JavaScript programming code.
-LAB - Microsoft Excel mailing labels.
-LGO - Windows 9x startup logo.
-LIT - eBooks in Microsoft Reader format.
-LNK - Windows 9x shortcut file.
-LOG - Application log file.
-LSP - Autocad(visual) lisp program.
-MAQ - Microsoft Access Query.
-MAR - Microsoft Access Report.
-MDB - Microsoft Access DataBase File.
-MDL - Rose model file. Opens with Visual Modeler or Rational Rose.
-MID - MIDI music file.
-MOD - Microsoft Windows 9.x kernel module.
-MOV - Quicktime movie.
-MP3 - MPEG Audio Layer 3.
-MPEG - Animation file format.
-MPP - Microsoft Project File.
-MSG - Microsoft Outlook message file.
-MSG - Fidonet messages.
-NCF - Netware command File.
-NLM - Netware loadable Module.
-O - Object file, used by linkers.
-OCX - ActiveX Control: A component of the Windows environment.
-OGG - Ogg Vorbis digitally encoded music file.
-OST - Microsoft Exchange/Outlook offline file.
-PAK - WAD file that contains information about levels, settings, maps, etc for Quake and Doom.
-PCL - Printer Control Language file. PCL is a Page Description Language developed by HP.
-PCT - Macintosh drawing format.
-PDF - Portable Document File by Adobe. Viewable in a web browser or
-with Adobe Acrobat.
-PDF - Printer Description File. Provides printer support for certain
-applications.
-PDR - Port driver for windows 95. It is actually a virtual device driver (vxd).
-PHP - Web page that contains a PHP script.
-PHTML - Web page that contains a PHP script.
-PIF - Program Information File
-PIF - Vector graphics GDF file(IBM Mainframe)
-PIF - Macintosh Compressed archive
-PL - Perl source code file.
-PM - Perl Module.
-PM3 - PageMaker 3.0 document.
-PM4 - PageMaker 4.0 document.
-PM5 - PageMaker 5.0 document.
-PM6 - PageMaker 6.0 document.
-PNG - Portable Network Graphic file.
-POL - System Policy file for Windows NT.
-POT - Microsoft PowerPoint design template.
-PPD - PostScript Printer description file used in Macintosh and Windows operating systems to provide printer specific features to a driver.
-PPS - Microsoft PowerPoint slide show.
-PPT - Microsoft PowerPoint presentation(default extension).
-PRN - A print file created as the result of "printing to file".
-PS - PostScript file.
-PSD - Native Adobe Photoshop format.
-PSP - Paint Shop Pro image.
-PST - Personal Folder File for Microsoft Outlook.
-PUB - Microsoft Publisher document.
-s PWL - Windows Password list file.
-QIF - Quicken Import file.
-RAM - RealAudio Metafile.
-RAR - RAR compressed archive created by Eugene Roshall.
-RAW - Raw File Format.
-RDO - Raster Document Object. Proprietary file type used on Xerox
-Digipath Scan and Makeready workstations.
-REG - Registry file that contains registry settings.
-RM - RealAudio video file.
-RPM - RedHat Package Manager.
-RSC - Standard resource file.
-RTF - Rich Text Format.
-SCR - Screen Saver file.
-SEA - Self extracting archive for Macintosh Stuffit files.
-SGML - Standard Generalized Markup Language.
-SH - Unix shell script.
-SHTML - HTML file that supports Server Side Includes(SSI).
-SIT - Compressed Macintosh Stuffit files.
-SMD - SEGA mega drive ROM file.
-SVG - Adobe scalable vector graphics file.
-SWF - Shockwave Flash file by Macromedia.
-SWP - DOS swap file.
-SYS - Windows system file used for hardware configuration or drivers.
-TAR - Unix Tape Archive.
-TGA - Targa bitmap.
-TIFF - Tagged Image File Format. Universal graphics format supported
-by most graphics applications.
-TMP - Windows temporary file.
-TTF - True Type font.
-TXT - Text Format.
-UDF - Uniqueness Definition File. Used for Windows unattended installations.
-UUE - UU encoded file.
-VBX - Microsoft Visual basic extension.
-VM - Virtual Memory file.
-VXD - Windows 9x virtual device driver.
-WAV - Waveform sound file.
-WMF - Windows Metafile (graphics format).
-WRI - Write Document: This is equivalent to RTF, Rich Text Format,
-that enables saving text with formatting information.
-WSZ - Winamp Skin.
-XCF - The GIMP's native image format.
-XIF - Wang imaging file. Wang Image Viewer comes with Windows 95/2000.
-XIF - Xerox Image file (same as TIFF).
-XIF - Image file eXtended by ScanSoft is similar to TIFF and is a Pagis application format.
-XLS - Microsoft Excel Spreadsheet.
-XLT - Microsoft Excel Template.
-XML - Extensible markup language.
-XSL - XML style sheet.
-ZIP - Compressed Zip archive.
-7z - 7-Zip compressed file 
-AAC - Advanced Audio Coding 
-ace - ACE compressed file 
-ALZ - ALZip compressed file 
-APK - Applications installable on Android 
-AT3 - Sony's UMD Data compression 
-BKE - BackupEarth.com Data compression 
-ARC - arc compression file 
-ARJ - ARJ compressed file 
-BA - Scifer Archive (.ba), Scifer External Archive Type 
-big - Special file compression format used by Electronic Arts for compressing the data for many of EA's games 
-BIK (.bik) - Bink Video file. A video compression system developed by RAD Game 
-BIN - compressed Archive. can be read and used by cd-roms and java, Extractable by 7-zip and WINRAR 
-bkf - Microsoft backup created by NTBACKUP.EXE 
-bzip2 - linux bzip2 format
-bld - Skyscraper Simulator Building 
-c4 - JEDMICS image files, a DOD system 
-cab - Microsoft Cabinet 
-cals - JEDMICS image files, a DOD system 
-cpt - Compact Pro (Macintosh) 
-sea - Compact Pro (Macintosh) 
-DAA - Closed-format, Windows only compressed disk image 
-deb - Debian install package 
-DMG - an Apple compressed/encrypted format 
-DDZ - a file which can only be used by the "daydreamer engine" created by "fever dreamer", a program similar to RAGS, it's mainly used to make somewhat short games. 
-DPE - Package of AVE documents made with Aquafadas digital publishing tools. 
-EEA - An encrypted CAB, ostensibly for protecting email attachments 
-egg - Alzip Egg Edition compressed file 
-EGT - EGT Universal Document also used to create compressed cabinet files replaces .ecab 
-ECAB - EGT Compressed Folder used in advanced systems to compress entire system folders, replaced by EGT Universal Document 
-ezip - EGT Compressed Folder used in advanced systems to compress entire system folders, replaced by EGT Universal Document 
-ESS - EGT SmartSense File, detects files compressed using the EGT compression system. 
-GHO - Norton Ghost
-GHS - Norton Ghost 
-gzip - Compressed file 
-gz - Compressed file
-IPG - Format in which Apple Inc. packages their iPod games. can be extracted through Winrar 
-JAR - ZIP file with manifest for use with Java applications. 
-LBR - Library file 
-LQR - LBR Library file compressed by the SQ program. 
-LHA (.lzh) - Lempel, Ziv, Huffman 
-lzip - Compressed file
-lz - Compressed file 
-lzo - Compressed file 
-lzma - Compressed file 
-LZX - (algorithm) 
-MBW - MBRWizard archive 
-MPQ - Archive used by Blizzard games 
-NTH - Nokia Theme Used by Nokia Series 40 Cellphones 
-PAK - Enhanced type of .ARC archive 
-PK3 - (See note on Doom?) 
-PK4 - (Opens similarly to a zip archive.) 
-RAR - WinRAR files
-RPM - Red Hat package/installer for Fedora, RHEL, and similar systems 
-SEN - Scifer Internal Archive Type 
-SIT - StuffIt (Macintosh) 
-SITX - StuffIt (Macintosh) 
-SKB - Google Sketchup Backup File 
-TAR - group of files, packaged as one file 
-tar.gz - gzipped tar file 
-tgz - gzipped tar file 
-TB - Tabbery Virtual Desktop Tab file 
-TIB - Acronis True Image backup 
-UHA - Ultra High Archive Compression 
-UUE - user unifile element 
-VIV - Archive format used to compress data for several video games. 
-VOL - unknown archive 
-VSA - Altiris Virtual Software Archive 
-WAX - Wavexpress A ZIP alternative optimized for packages containing video, allowing multiple packaged files to be all or none delivered with near instantaneous unpacking via NTFS file system manipulation. 
-Z - Unix compress file 
-ZOO - based on LZW 
-ZIP - popular compression format
-doc - Microsoft Word Document
-docx - Microsoft Word Open XML Document
-log - Log File
-msg - Outlook Mail Message
-odt - OpenDocument Text Document
-pages - Pages Document
-rtf - Rich Text Format File
-tex - LaTeX Source Document
-txt - Plain Text File
-wpd - WordPerfect Document
-wps - Microsoft Works Word Processor Document
-csv - Comma Separated Values File
-dat - Data File
-gbr - Gerber File
-ged - GEDCOM Genealogy Data File
-ibooks - Multi-Touch iBook
-key - Keynote Presentation
-keychain - Mac OS X Keychain File
-pps - PowerPoint Slide Show
-ppt - PowerPoint Presentation
-pptx - PowerPoint Open XML Presentation
-sdf - Standard Data File
-tar - Consolidated Unix File Archive
-tax2012 - TurboTax 2012 Tax Return
-vcf - vCard File
-xml - XML File
-aif - Audio Interchange File Format
-iff - Interchange File Format
-m3u - Media Playlist File
-m4a - MPEG-4 Audio File
-mid - MIDI File
-mp3 - MP3 Audio File
-mpa - MPEG-2 Audio File
-ra - Real Audio File
-wav - WAVE Audio File
-wma - Windows Media Audio File
-3g2 - 3GPP2 Multimedia File
-3gp - 3GPP Multimedia File
-asf - Advanced Systems Format File
-asx - Microsoft ASF Redirector File
-avi - Audio Video Interleave File
-flv - Flash Video File
-m4v - iTunes Video File
-mov - Apple QuickTime Movie
-mp4 - MPEG-4 Video File
-mpg - MPEG Video File
-rm - Real Media File
-srt - SubRip Subtitle File
-swf - Shockwave Flash Movie
-vob - DVD Video Object File
-wmv - Windows Media Video File
 3dm - Rhino 3D Model
 3ds - 3D Studio Scene
-max - 3ds Max Scene File
-obj - Wavefront 3D Object File
-bmp - Bitmap Image File
-dds - DirectDraw Surface
-gif - Graphical Interchange Format File
-jpg - JPEG Image
-png - Portable Network Graphic
-psd - Adobe Photoshop Document
-pspimage - PaintShop Pro Image
-tga - Targa Graphic
-thm - Thumbnail Image File
-tif - Tagged Image File
-tiff - Tagged Image File Format
-yuv - YUV Encoded Image File
-ai - Adobe Illustrator File
-eps - Encapsulated PostScript File
-ps - PostScript File
-svg - Scalable Vector Graphics File
-indd - Adobe InDesign Document
-pct - Picture File
-pdf - Portable Document Format File
-xlr - Works Spreadsheet
-xls - Excel Spreadsheet
-xlsx - Microsoft Excel Open XML Spreadsheet
-accdb - Access 2007 Database File
-db - Database File
-dbf - Database File
-mdb - Microsoft Access Database
-pdb - Program Database
-sql - Structured Query Language Data File
-apk - Android Package File
-app - Mac OS X Application
-bat - DOS Batch File
-cgi - Common Gateway Interface Script
-com - DOS Command File
-exe - Windows Executable File
-gadget - Windows Gadget
-jar - Java Archive File
-pif - Program Information File
-vb - VBScript File
-wsf - Windows Script File
-dem - Video Game Demo File
-gam - Saved Game File
-nes - Nintendo (NES) ROM File
-rom - N64 Game ROM File
-sav - Saved Game
-dwg - AutoCAD Drawing Database File
-dxf - Drawing Exchange Format File
-gpx - GPS Exchange File
-kml - Keyhole Markup Language File
-kmz - Google Earth Placemark File
-asp - Active Server Page
-aspx - Active Server Page Extended File
-cer - Internet Security Certificate
-cfm - ColdFusion Markup File
-csr - Certificate Signing Request File
-css - Cascading Style Sheet
-htm - Hypertext Markup Language File
-html - Hypertext Markup Language File
-js - JavaScript File
-jsp - Java Server Page
-php - PHP Source Code File
-rss - Rich Site Summary
-xhtml - Extensible Hypertext Markup Language File
-crx - Chrome Extension
-plugin - Mac OS X Plug-in
-fnt - Windows Font File
-fon - Generic Font File
-otf - OpenType Font
-ttf - TrueType Font
-cab - Windows Cabinet File
-cpl - Windows Control Panel Item
-cur - Windows Cursor
-deskthemepack - Windows 8 Desktop Theme Pack File
-dll - Dynamic Link Library
-dmp - Windows Memory Dump
-drv - Device Driver
-icns - Mac OS X Icon Resource File
-ico - Icon File
-lnk - Windows File Shortcut
-sys - Windows System File
-cfg - Configuration File
-ini - Windows Initialization File
-prf - Outlook Profile File
-hqx - BinHex 4.0 Encoded File
-mim - Multi-Purpose Internet Mail Message File
-uue - Uuencoded File
-7z - 7-Zip Compressed File
-cbr - Comic Book RAR Archive
-deb - Debian Software Package
-gz - Gnu Zipped Archive
-pkg - Mac OS X Installer Package
-rar - WinRAR Compressed Archive
-rpm - Red Hat Package Manager File
-sitx - StuffIt X Archive
-tar.gz - Compressed Tarball File
-zip - Zipped File
-zipx - Extended Zip File
-bin - Binary Disc Image
-cue - Cue Sheet File
-dmg - Mac OS X Disk Image
-iso - Disc Image File
-mdf - Media Disc Image File
-toast - Toast Disc Image
-vcd - Virtual CD
-c - C/C++ Source Code File
-class - Java Class File
-cpp - C++ Source Code File
-cs - Visual C# Source Code File
-dtd - Document Type Definition File
-fla - Adobe Flash Animation
-swf - Adobe Flash Animation
-h - C/C++/Objective-C Header File
-java - Java Source Code File
-lua - Lua Source File
-m - Objective-C Implementation File
-pl - Perl Script
-py - Python Script
-sh - Bash Shell Script
-sln - Visual Studio Solution File
-vcxproj - Visual C++ Project
-xcodeproj - Xcode Project
-bak - Backup File
-tmp - Temporary File
-crdownload - Chrome Partially Downloaded File
-ics - iCalendar File
-msi - Windows Installer Package
-part - Partially Downloaded File
-torrent - BitTorrent File
+3g2 - 3GPP2 Multimedia File
+3gp - 3GPP Multimedia File
+7z - 7-Zip compressed file 
 A -ADA source code file
-A -Library
 A11 - Graphics AIIM image file
 A80 - Assembler language source for 8080
-AAC -"Advanced Audio Coding, a standardized, lossy compression and encoding scheme for digital audio"
+AAC - Advanced Audio Coding 
 AAF -AutoPatcher file
-AAF -"Advanced Authoring Format, an advanced media wrapper file for professional applications"
 AAS -Animation Play Script
 AB6 -Datafile
 AB8 -Datafile
 ABC -Alembic - 3D geometry / models
-ABC -Document
-ABP -Data
-ABP -AVS Barcode Profile
 ABF -Adobe Binary Screen Font
 ABK -Automatic backup file
 ABM -Image PALS album file
-ABM -Album file (various programs)
+ABP -Data
 ABR -Adobe Brush file for PhotoShop
 ABS -Abstracts (info file)
-ABS -Data file
 AC 	-Project backup
 ACA -Project
 ACB -Archive
-ACB -see ACMB
 ACC -Program (DR-DOS - ViewMax)
 ACCDA -	Data
-ACCDB -	Data
+accdb - Access 2007 Database File
 ACCDE -	Data
 ACCDT -	Data
 ACCDU -	Data
-ACE -Archive
+ACE - ACE Archiver compression file.
 ACF -Adobe Custom Filter for PhotoShop
 ACL -Project
-ACL -AutoCorrect List
 ACM -Audio Compression Module add-on
 ACMB -Graphics file
 ACO -Adobe Color Palette
 ACT -ACTOR source code file
-ACT -Animations Works Actor (Graphics cell)
-ACT -FoxDoc Action Diagrams
-ACT -Presentation
 AD -AfterDark screensaver module
 AD2 -ADPCM 2-bit compressed voice file
 AD3 -ADPCM 3-bit compressed voice file
 ADA -Ada source code file
 ADB -Ada Package Body
 ADC -Bitmap graphics (16 colors)
-ADC -Dictionary
 ADD -OS/2 adapter device driver
 ADF -Amiga Disk File
 ADG -Data
 ADI -Graphics file
-ADI -Database Index File
 ADICHT - LabChart data acquisition file
 ADL - MCA adapter description library
 ADM - After Dark support file
-ADM - ADEM file format
-ADI - Database Memo File
 ADN - Add-in
 ADR - After Dark support file
 ADS - Ada Package Specification
 ADT - WoW geographical map location file
-ADT - Datafile for cardfile application
-ADT - "Abrechnungsdatentransfer, an xDT application"
-ADT - Dictionary
-ADT - Fax
-ADI - Database Table
 ADV - GUS device driver
 ADX - Document
 ADZ - Amiga Disk Zipped (See Amiga Disk File)
@@ -514,19 +61,17 @@ AF3 - Flowchart
 AFI - Truevision bitmap graphics
 AFL - Font file (for Always)
 AFM - Datafile for cardfile application
-AFM - Type 1 font metric ASCII data for font installer
 AFP - Shape palette
 AFT - Template
 AFW - Workplace
 AGR - ArcView ASCII grid
 AHK - AutoHotkey script file
-AI - Vector graphics file
-AIF - see AIFF
+ai - Adobe Illustrator File
+AIF - Audio Interchange File used with SGI and Macintosh applications.
 AIFC - Audio Interchange File Format with Compression
 AIFF - Audio Interchange File Format
 AiM - Asm Text Mode Image File
 AIN - Archive
-AIN - Job schedule
 AIO - APL programming language file transfer format file
 AIR - Adobe AIR installation package
 AIS - Array of Intensity Samples graphics file
@@ -534,126 +79,86 @@ AIX - Datafile for cardfile application
 AKM - Akai Multitimbral sample information file
 AKP - Akai Program sample information file
 ALC - Molecular coordinates
-ALG - Activity Log
 ALE - Avid Log Exchange (used in film & video editing)
+ALG - Activity Log
 ALL - Arts & Letters symbol and font files
-ALL - Filelist w/ all files
-ALL - Format file for working pages
-ALL - General printer information
 ALO - Almanac support file
 ALT - Menu file
-ALZ - AlZip Compressed Files
+ALZ - ALZip compressed file 
 AMD - Maxum chromatograph offline database
 AMF - Music (Advanced Module Format)
 AMG - Archive
-AMG - System image file
 AML - AutomationML
 AMR - Audio format for mobile phones (Nokia, SonyEricsson)
 AMS - Adobe Monitor Setup calibration file
-AMS - Music format
-ANI - Animation cursors for Win
-ANI - Animation
-ANM - Animation
+ANI - Animated cursors used in Microsoft Windows.
 ANIM - Trainz Animation
+ANM - Animation
 ANN - Help Annotations
-Ann - Multi volume ARJ archive
 ANS - ANSI character graphics (animation) file
-ANS - ASCII text ANSI character set
 AOL - America On-line for Windows DLL
 AOS - Add-On Software
 AP - Archive
-AP - Datafile
 APC - Printer driver
 APD - Printer driver
 APE - Monkey's Audio (Lossless)
 APF - Printer driver
-API - Adobe Printer Ink file for PhotoShop
-API - Passed parameter file
-API - Printer driver
-APK - Android Application
+API - Application Program Interface.
+APK - Applications installable on Android 
 APL - APL work space format file
-APL - Support module used by Manugraphics APL products
-APL - EV-Dos Application File
 APM - Authorware Macintosh
-APP - Add-in application file
-APP - Application object file
-APP - Application
-APP - Application and Application Bundle
-APP - Executable workflow / macro file
-APP - Executable application file
-APP - Generated application
+app - Mac OS X Application
+applications.
 APR - Employee performance review
 APW - Authorware Windows
 APX - Appexpert database file
 AQF - Analyzer Queries and Filters
 AR 	- Argon - for 3D Modeling
 AR7 - Archive
-ARC - Archive
-ARC - Archive
-ARC - Nintendo proprietary archive format
+ARC - arc compression file 
 ARD - Map
 ARF - Automatic Response File
 ARH - Archivers definitions file
 ARI - Archive
-ARJ - Archive
+ARJ - ARJ compressed file 
 ARK - ARC archive
-ARK - Archive
-ARK - Managing your Money Archive File
 ARR - Arrangement
-ART - Gerber artwork
-ART - First Publisher, Designworks, Greenstreet Draw graphic file
-ART - Graphics (scrapbook)
-ART - Graphics format (Another Ray Tracer)
-ARTX - File format
+ART - Clipart.
 ARTX - File format
 ARX - Archive
-ASC - ASCII text file
-ASC - Transport armor file
+ASC - ASCII text file.
 ASD - Autosave file
-ASD - Presentation
-ASD - Screen driver
-ASD - Spectral Data Set
 ASE - Velvet Studio Sample
-ASE - ASCII Scene Export
-ASF - Datafile (APL Shared File)
-ASF - Screen font
-ASF - Advanced Streaming Format (Compressed Windows audio/video)
-ASK - SYSGEN answer file
+asf - Advanced Systems Format File
 ASH - Assembly language header file
 ASI - ASIC language source
-ASI - Assembler include file
-ASM - Assembler language source
+ASK - SYSGEN answer file
+ASM - Assembler code.
 ASMX - ASP.NET Web Service
 ASO - Assembler object (object-oriented) file
-ASP - ASPECT source code file
-ASP - Association of Shareware Professionals OMBUDSMN.ASP notice
-ASP - Active Server Pages of Microsoft.Net
-ASPX - ActiveX Server Pages of Microsoft.Net
+ASP - Microsoft Active Server Page.
+aspx - Active Server Page Extended File
 ASS - Amalgam Scene Specification
-ASS - Advanced SubStation Alpha (Subtitles)
 AST - Adobe Color Separation table for PhotoShop
-AST - Nintendo proprietary music streaming format
 ASV - Autosave File
 ASW - Authorware Star
-ASX - "Advanced Stream Redirector file, redirects to an ASF file (see ASF)"
+asx - Microsoft ASF Redirector File
 ASZ - Skin
 AT2 - Auto template
-AT3 - Atrac 3 Sound/music file
+AT3 - Sony's UMD Data compression 
 ATM - Adobe Type Manager data/info
 ATN - Adobe Photoshop action
 ATT - AT&T Group
 ATTF - AramOS TypeAtor Text File
 ATY - Produced when an association type is exported by 3D Topicscape
 AU 	- Sun/NeXT/DEC Audio file
-AU 	- Sound (audio) file
 AUD - Audio file
 AUP - Audacity project file
 AUX - Auxiliary dictionary
-AUX - Auxiliary references
 AUZ - Ableton Live File
 AVA - Publication
 AVB - AntiViral Toolkit Pro Bases
-AVI - Audio Video Interleaved animation file
+AVI - Audio/Video Interleaved used for Windows based movies.
 AVR - Audio Visual Research
 AVS - Audio Video Software
 AVT - AVATAR-coding files
@@ -665,7 +170,6 @@ AWM - Animations Works Movie (as .AVI)
 AWS - Data (APL Workspace)
 Ax 	- Directshow filter file format
 AXF - ARM Executable Image generated by the ARM tools
-AXF - lightweight geodatabase
 AXM - Axmedis object
 AZD - Amazon Software Download
 AZW - DRM enabled eBook
@@ -673,37 +177,30 @@ AZW1 - DRM enabled eBook with embedded fonts
 AZW2 - Program file
 AZZ - Data file
 B - APPLAUSE
-B -	Any of the 3D Grand Theft Auto games in either III or IV era.
 B_W	- Atari - mac
 B1N	- 1st Reader
 B30	- Corel Ventura Publisher
 B3D	- B3D	
 B8 - PicLab
-BA - Scifer Archiver and Compression [External Header Mode]
+BA - Scifer Archive (.ba), Scifer External Archive Type 
 BAC - RT-11 BASIC-11
 BAD	- Oracle Corporation - many
-BAD	- Novalogic
-BAD	- RT-11
-BAK	- BAK	
+BAK - Backup Files.
 BAL	- Ballade
 BALANCE - Balance
 BAP	- BlazeAudio MadCap Software
 BAR	- dBASE Application Generator
-BAR	- GFX2EXE
-BAR	- IBM WebSphere Message Broker
-BAS	- QuickBASIC - GW-BASIC - FreeBASIC
-BAT	- "MS-DOS, RT-11"
+BAS - BASIC programming language sourcecode.
+BAT - MSDOS batch file.
 BB - Papyrus Design Group
 BBL	- TeX/BibTeX
 BBM	- Deluxe Paint
 BBP	- BassBox
 BBQ	- BitBeamer
 BBS	- BBS	
-BBS	- FTN software
 BC!	- Unfinished BitComet download (a BitTorrent client)
 BCF	- Bingo Card Creator
 BCH	- dBASE Application Generator
-BCH	- Datalex EntryPoint 90
 BCO	- Bitstream Inc.
 BCP	- BCP	
 BCT	- Clarion
@@ -712,19 +209,15 @@ BDB	- Bookends
 BDC	- Lingvo
 BDEF - Websphere Portlet Factory
 BDF - Adobe Software
-BDF - BUPDATE.EXE (c) TNT Techn.
-BDF - X11
-BDF	- Egret
 BDM	- AVCHD
 BDMV - Media players AND Blu-ray structure
 BDR - Microsoft Publisher
 BDT - Lingvo
-BDT - Healthcare providers in Germany
 BEF-BEF FILE
 BEZ-Bitstream
-BF-BF FILE	
 BF2	-BF2 FILE
-BFC-Win95
+BF-BF FILE	
+BFC - Briefcase document used in Windows.
 BFM-unix/Frame
 BFS- BFS File	
 BFX	- BitFax
@@ -733,23 +226,23 @@ BGI - Turbo C - Turbo Pascal
 BH - data compression format
 BI - Visual Basic - FreeBASIC
 BIB	- BIB FILR
-BIB	- Papyrus
-BIB - TeX/BibTeX
 BIF	- Image Capture board
+big - Special file compression format used by Electronic Arts for compressing the data for many of EA's games 
+BIK (.bik) - Bink Video file. A video compression system developed by RAD Game 
 BIK	- BIK FILE
-BIN	- The Draw - TUD - ACiDDraw - etc.
+BIN - Binary File.
 BIO	- BioniX Wallpaper Changer
-BIO	- BIO FILE	
 BIT	- BIT FILE
-BK!	- WordPerfect for Win
 BK - JetFax
+BK!	- WordPerfect for Win
 BK?	- BX? FILE
 BKC	- Backup4all
+BKE - BackupEarth.com Data compression 
+bkf - Microsoft backup created by NTBACKUP.EXE 
 BKn	- WordPerfect for Win
 BKP	- Write - TurboVidion DialogDesigner
 BKW	- FontEdit
-BLD	- BASIC
-BLD	- RT 11
+bld - Skyscraper Simulator Building 
 BLEND -	Blender
 BLG	- ARCSOLO
 BLK	- WordPerfect for Win
@@ -759,7 +252,7 @@ BM - BM FILE
 BM3	- BM3 FILE
 BMD	- Various Nintendo games
 BMK	- Windows 3.x
-BMP	- QPeg - CorelDraw - PC Paintbrush - many
+BMP - Bitmap format.
 BMPW - BMPW	
 BMS	- Various Nintendo games
 BMT	- Ami Pro
@@ -768,8 +261,6 @@ BNK	- BNK
 BNR	- Banner - Poster
 BOK	- Shamela Library Program
 BOO	- READIBM
-BOO	- msbooasm.arc
-BOO	- Boo Programming Language
 BOT	- Quake 3 Engine
 BPC	- Business Plan Toolkit
 BPOLY- Prisms binary 3D object
@@ -778,27 +269,21 @@ BPT - CorelDRAW
 BPW - Bitser password manager
 BR - Bridge
 BRD - BRD
-BRD	- Tanzzle
-BRD	- Cadence
 BRF	- Braille embossers and refreshable displays
 BRK	- Brooktrout Fax-Mail
-BRK	- The Brake!
 BRL	- Ballistic Research Laboratory CAD
 BS - SYSLINUX
 BS2	- BS2.EXE
 BSA	- BSArc
 BSC	- BINSCII
-BSC	- Source Browser
-BSC	- Microsoft Fortran
 BSP	- Valve Corporation
-BSP	- id Software
 BSS	- SYSLINUX
-BSS	- PC-LINK
 BST	- TeX
 BSY	- FTN soft
 BTM	- 4dos -ndos
 BTN	- BTN FILE
 BTX	- 4DOS
+BUD - Backup Disk for Quicken by Intuit.
 BUFR - BUFR	
 BUG	- BUG
 BUN	- BUN
@@ -808,95 +293,80 @@ BUY	- movie
 BVn	- WordPerfect for Win
 BWB	- Visual Baler
 BWR	- Kermit
+by most graphics applications.
 BYU	- BYU
-BZ2	- bzip2
+BZ2 - Bzip2 compressed files.
+bzip2 - linux bzip2 format
 BZM	- Blitzkrieg
-C - C language source
-C - Unix file archive
+C - C source file.
 C++ -C++ language source
 C00 -Print file
 C01 -Typhoon wave files
 C32 -COMBOOT Executable (32-bit)
+c4 - JEDMICS image files, a DOD system 
 C86 -C source code file
 CA -Initial cache data for root domain servers
 CA? -Borland packed and split file
-CAB -Win 95 packed file
+cab - Microsoft Cabinet 
 CAC -dBASE IV executable when caching on/off (see cachedb.bat)
 CAD -Drawing
-CAD -Document
 CAL -Calendar file
-CAL -Spreadsheet format
-CALS -Computer Aided Acquisition and Logistics
-CALS -Support Raster Format
+cals - JEDMICS image files, a DOD system 
 CAM -Casio Camera
 CAN -Fax
 CAP -Caption
-CAP -Capture file
 CAS -C + ASM language source
-CAT -Catalog
-CAT -Device driver digital signature
-CAT -Stellarium Star Catalogue
+CAT - Security Catalog file.
 CATDrawing -Drawing file of CATIA V5
 CATPart -Part file of CATIA V5
 CATProduct -Assembly file of CATIA V5
 CATS -Combined source
 CBA -Source code
 CBC -Fuzzy logic system
-CBL -COBOL source code file
+CBL - Cobol code.
 CBM -Compiled bitmap graphics
-CBR -Comic Book Reader (RAR file)
+cbr - Comic Book RAR Archive
 CBS -MasterWord button bar configuration file
-CBT -COMBOOT Executable (incompatible with DOS COM files)
-CBT -Computer Based Training
+CBT - Computer Based Training.
 CBZ -Comic Book Reader (ZIP file)
 CC -C++ source code file
-CC -CC language source
 CCC -Bitmap graphics (native format)
 CCF -Communications configuration file
-CCF -Color Chat file
 CCH -Chart
 CCITT -CCITT Group 3 and Group 4 Encoding
 CCL -Communication Command Language file
 CCO -BTX Graphics file
 CCT -Print Template
 CD -CD description
-CDA -CD-Audio
+CDA - Compact Disc Audio Track.
 CDB -Card database
-CDB -Main database
 CDF -Common Data Format
-CDF -Company Data File
-CDF -Computable Document Format
-CDF -Cyberspace Description Format
-CDF -Graphics
 CDK -Document
 CDL -CADKey CADL Language
 CDM -Disk Drivers NPA
-CDM -Music format (compressed)
 CDO -Music notation
 CDR -Vector graphics format (drawing)
-CDT -Corel Draw Template File
+CDT - Corel Draw Template file.
 CDX -Compound index file
 CE -Computer Eyes
-CE -Main.ce
 CEB -Cont. Edge Bitmap
 CEF -CA-Clipper Workbench Application
-CEF -Export File
-CEF -Compact Embedded Font
 CEG -Bitmap graphics
 CEL -Animation CEL
-CEL -Graphics
+cer - Internet Security Certificate
 CF -Configuration file
 CFA -Audio file
 CFC -ColdFusion Component
-CFG -Configuration file
+cfg - Configuration File
 CFL -Chart
-CFM -ColdFusion Markup Language
+cfm - ColdFusion Markup File
+CFML - ColdFusion Markup Language.
 CFN -Font data
 CFO -C Form Object internal format object file
 CFP -Fax
 CFT -CFast graphics file
 CGA -CGA display font
-CGI -Common Gateway Interface script
+CGI - Common Gateway Interface. Web based programs and scripts.
 CGM -Computer Graphics Metafile vector graphics
 CH -Clipper language header
 CH3 -Chart
@@ -904,55 +374,36 @@ CH4 -Presentation
 CHD -Font descriptor
 CHI -ChiWriter Document
 CHK -Recovered data
-CHK -Temporary file
 CHL -Configuration History Log
-CHM -Compiled Help File
+CHM - Compiled HTML Help files used by Windows.
 CHML -Encrypted Data File
 CHN -Data
 CHP -Chapter file
 CHR -Character set
 CHT -Chart
-CHT -CHeaT in any program/game
-CHT -Interface file for ChartMaster
 CHZ -Archive
 CIF -Caltech Intermediate Format graphics file
-CIF -Chapter information
-CIF -Crystallographic Information File
 CiM -C Text Mode Image File
 CIX -Database index
 CKB -Borland C++ 4.x editor keystroke mapping
 CL -COMMON LISP source code file
 CLA -Source
-CLASS -Java class file
+CLASS - Javascript Class file.
 CLD -Clipper debugger configuration file
 CLJ -Clojure source code
-CLP -Clip art graphics file
-CLP -Clipboard file
-CLP -Compiler response file
-CLP -Graphics format
+CLP - Windows Clipboard file.
 CLPI -ClipAV Clip Information file for Blu-ray
 CLPRJ -ClassicLadder project file
 CLR -Color binary screen image
-CLR -Color definitions
-CLR -Color scheme
-CLR -Palette file for GIS format
 CLS -C++ class definition file
 CLW -MFC Class Wizard information
 CM -Data file
 CMB -Xtree for Windows Button Bar file
-CMD -Command
-CMD -Command Prompt batch file
-CMD -executable programs
-CMD -External command menu
-CMD -OS/2 batch/REXX file
-CMF -FM-music file (Creative Music File)
+CMD - Dos Command File.
+CMF - Corel Metafile.
 CMK -Card
 CMM -CMM script (batch) file
 CMP -Bitmap graphics (Lead CMP compression)
-CMP -Compressed data
-CMP -Header file for PostScript printer files
-CMP -Photofinish Calibration Map
-CMP -User dictionary
 CMRL -Concise message routing language
 CMS -Content Management System
 CMU -Carnegie Mellon University Formats
@@ -960,77 +411,55 @@ CMV -Animation (CorelMove CorelDraw 4.0)
 CNC -CNC general program data
 CND -System generation conditional file
 CNF -Configuration (program - printer setup)
-CNF -Configuration file
 CNV -Temporary file
-CNV -Winword DLL used as part of an import operation (CNV=converter)
 CO -Cobalt - parametric drafting and 3D modeling
 COB -Calgari trueSpace2 File Format
-COB -COBOL source code file
 COD -Code definition table
-COD -Datafile
-COD -file uncluding CODES for any program/game
-COD -Printer code definition file
-COD -Program compiled code
-COD -Template source file
-COD -Videotext file
 COE -Coefficient file
 COF -Animation Control File
 COL -Color palette
-COL -Spreadsheet
-COM -Command (memory image of executable program)
-COM -Indirect command file (sequence of commands to be executed)
+COM - Command File.
 CON -Configuration file
-CON -MSTS Consist file
 CPC -Compressed image
 CPD -Script
 CPF -Fax
 CPI -ColorLab Processed Image bitmapped graphics file
-CPI -MS-DOS codepage file
-CPL -Control panel file
-CPL -Presentation
+CPL - Control panel item The settings in Control Panels represent
+CPL files in the Windows\System folder.
 CPMZ -ConPro/Miradi Zipfile
-CPP -C++ language source
-CPP -Presentation
+CPP - C++ programming language source code.
 CPR -Knowledge Access
 CPS -backup of startup files by QEMM (?) autoexec.cps
-CPT -Encrypted memo file
-CPT -Mac file archive
-CPT -Template
+cpt - Compact Pro (Macintosh) 
 CPZ -Music text file
 CR2 -Raw image format
 CRA -Advanced crack file (usually text)
 CRD -Cardfile
-CRD -Map
-CRD -Molecular coordinates
-CRDOWNLOAD -Google Chrome download in progress
+crdownload - Chrome Partially Downloaded File
 CRF -Cross-reference
 CRK -Crack file (usually text)
 CRP -Encrypted database
 CRS -File Conversion Resource
 CRT -Terminal settings information
 CRU -Compressed file archive created by CRUSH
-CS -C# source file
+crx - Chrome Extension
+cs - Visual C# Source Code File
 CSD -Compact Shared Document
 CSG -Batch file (Submit)
-CSG -Graph
 CSM -Borland C++ 4.x precompiled header file
 CSP -PC Emcee Screen Image file
-CSS -Datafile
-CSS -Datasheet
-CSS -cascading style sheet
-CSV -Adjusted EGA/VGA palette
-CSV -Comma Separated Values text file format (ASCII)
+csr - Certificate Signing Request File
+CSS - Cascading Style Sheet. Creates a common style reference for a set of web pages.
+CSV - Comma Separated Values format.
 CTC -Control file
 CTF -Character code translation file
 CTK -CommonTime Key file
 CTL -Control file
-CTL -BATCH control file (generated by BATCH from .BAT file)
 CTT -BATCH Temporary file
 CTX -Ciphertext file
-CTX -Course TeXt file
-CTX -document
+cue - Cue Sheet File
 CUF -C Utilities Form definition
-CUR -Windows resource (cursor image file)
+CUR - Cursor in Microsoft Windows.
 CUT -Graphics format (bitmapped graphics)
 CV4 -Color file
 CVP -Cover page
@@ -1047,51 +476,30 @@ D4D -Data
 D4P -Data
 D64 -Commodore 64 disk image
 D88 -Toshiba Pasopeia D88 disk image format
-DAA -Direct Access Archive
+DAA - Closed-format, Windows only compressed disk image 
 DAE -COLLADA file
 DAF -Data file
-DAT -Maxum chromatograph chromatogram
-DAT -LDraw (Sub)Part File, 3D Model
-DAT -Document
-DAT -data
-DAT -Data file in special format or ASCII
-DAT -Database file
-DAT -Norton Utilities disc image data. It saves Boot sector, part of FAT and root directory in image.DAT on same drive.
-DAT -Optical disc image (can be ISO9660, but not restricted to)
-DAT -Video CD MPEG stream
-DAT -Windows registry hive (REG.DAT Windows 3.11; USER.DAT and SYSTEM.DAT Windows 95, 98, and ME; NTUSER.DAT Windows NT/2000/XP/7)
+DAO - Registry Backup file for Windows registry.
+DAT - Data file.
 DATS -Dynamic source
+db - Database File
 DB$ -Temperature debug info
-DB$ -Temporary file
-DB -Database file
-DB -Configuration
-DB -Multi Edit config
 DB2 -Database
 DB3 -Database
 DBA -Database file
-DBA -DarkBasic source code
 DBC -DataBaseContainer
 DBD -Business data
-DBD -Debug info
-DBF -Database file
+dbf - Database File
 DBG -Debugger script
-DBG -Symbolic debugging information
 DBK -Database backup
 DBL -DIBOL source file
 DBM -Datafile
-DBM -Menu template
 DBO -Compiled program
 DBPro -DarkBasicPro Project
 DBS -Data file used by Managing Your Money
-DBS -Database in SQL Windows format
-DBS -Datafile
-DBS -Printer description file
 DBT -FoxBASE+ style memo
-DBT -Memo file for database w/same name
 DBW -Windows file
 DBX -DataBeam
-DBX -AutoCAD Database
-DBX -Archive File
 DC -CAD drawing file
 DC6 -Image file
 DCA -Document Content Architecture text file
@@ -1104,41 +512,30 @@ DCL -Delphi Control Library
 DCM -DCM music module
 DCP -OS/2 device code page
 DCS -Bitmap graphics (CYMK format)
-DCS -Datafile
 DCT -Dictionary: used by many programs with program dependent format
-DCT -Spell checking dictionary
-DCT -DataBaseContainer Extension
 DCU -Delphi unit (compiled)
 DCW -Walter Machine Programing
 DCX -Multi-page PCX graphics (common fax format)
-DCX -DataBaseContainer Index
-DD -Macintosh file archive
+DD - Compressed Archive by Macintosh DiskDoubler.
 DDA -Data
 DDB -Bitmap graphics
-DDB -Digidesign Database File
 DDI -Disk image
 DDP -Device Driver Profile file
-DDS -DirectDraw Surface file
-DEB -DEBUG script
+dds - DirectDraw Surface
+DDZ - a file which can only be used by the "daydreamer engine" created by "fever dreamer", a program similar to RAGS, it's mainly used to make somewhat short games. 
+DEB - Debian packages.
 DEF -Assembly header file
-DEF -Defaults - definitions
-DEF -Linker definition file
-DEM -Demonstration
-DEM -Digital Elevation Model
-DEM -Graphics file
-DEM -Vista DEM file
+dem - Video Game Demo File
 DES -Ascii text parameter description
 DESKLINK -Windows Explorer Desktop Control (commonly "Desktop (create shortcut).DESKLINK", 0 bytes). Uses a 'special' hidden file extension (NeverShowExt flag inside the Registry), overriding the Windows Explorer option of showing/hiding file extensions.
+deskthemepack - Windows 8 Desktop Theme Pack File
 desktop -Desktop Entry
-DEV -Device driver
-DEV -SYSGEN handler build procedure
-DEV -Dev-C++ project file
+DEV - Device Driver.
 DFD -Data Flow Diagram graphic file
 DFF -RenderWare model data (e.g. Grand Theft Auto III and later)
 DFI -Outline font description
 DFL -Default program settings
 DFM -Data Flow Diagram model file
-DFM -Delphi form module
 DFS -Delight Sound File
 DFV -Printing form (Word)
 DFX -Micrografx Effects DLL
@@ -1150,23 +547,13 @@ DHT -Datafile
 DI -D Programming Language interface file
 DIA -Diagraph graphics file
 DIB -Device Independent Bitmap
-DIC -Dictionary (e.g. from WinWord)
+DIC - Dictionary file.
 DIF -Borland patch data file
-DIF -Data Interchange Format
-DIF -OS/2 V2.2 Display Information File
-DIF -Output from Diff command - script for Patch command
-DIF -SRCCOM, BINCOM output file
 DIG -Digilink
-DIG -Sound Designer 1 audio file
+Digipath Scan and Makeready workstations.
 DIP -Graphics
-DIP -Watcom debug info processor
-DIP -PCB Drawing file
-DIR -Dialing directory file
-DIR -Directory file
-DIR -Movie
-DIR -Directory listing file
+DIR - Macromedia Director file.
 DIS -Distribution file
-DIS -Thesaurus
 DIZ -Description file (Description In Zip)
 DJVU -DJVU Document Format, a format similar to PDF but with higher compression rates at the same quality.
 DKB -Raytraced graphics
@@ -1174,119 +561,93 @@ DL -Animation format (Italian origin)
 DLD -
 DLF -Dialogue Live Format
 DLG -Dialog resource script file
-DLG -Dialog resources
-DLG -Windows SDK dialog editor data file
-DLG -Windows SDK dialog editor data file
-DLL -Dynamic-link library
-DLL -Export/import filter
+DLL - Dynamic Linked Library. Microsoft application file.
 DLM -Microsoft File Transfer Manager
 DLP -Data
 DLS -Setup
 DMF -Music format (Delusion Digital Music File)
-DMF -DeleD files
-DMG -Apple Disk Image
+DMG - an Apple compressed/encrypted format 
 DMO -Demo
-DMP -Dump file (e.g. screen or memory)
-DMP -DUMP utility output file
+dmp - Windows Memory Dump
 DMS -Amiga file archive
 DNG -Digital Negative (DNG), a publicly available archival format for the raw files generated by digital cameras
 DNT -data
 DO -Java servlet file
-DOC -A Document, or an ASCII text file with text formatting codes in with the text; used by many word processors
+DOC - Document format for Word Perfect and Microsoft Word.
 DOCM -Microsoft Word 2007 Master document
-DOCX -Office Open XML Text document
+docx - Microsoft Word Open XML Document
 DOF -Delphi project options file
 DOG -Screen file
 DOH -Dependency information for .poh
 DOR -Roland Digital audio file
 DOS -External command file
-DOS -Network driver (e.g. pkt_dis.dos)
-DOS -OS/2 V3 SVGA PMI-File
-DOS -renamed system files (AUTOEXEC.BAT, COMMAND.COM, CONFIG.SYS,DBLSPACE.BIN, DRVSPACE.BIN, IO.SYS, MSDOS.SYS) of previous MS-DOS version
-DOS -Text file containing DOS specific info
-DOT -Line-type definition file
-DOT -Microsoft Word document template
+DOT - Microsoft Word Template.
 DOTX -Office Open XML Text document template
 DOX -Text file
 DOZ -Description Out of Zip
 DP -Calendar file
-DP -Data file
-DPR -Default project- and state-related information
+DPE - Package of AVE documents made with Aquafadas digital publishing tools. 
 DPF -Bareboard PCB CAD/CAM format
+DPR -Default project- and state-related information
 DPX -Digital Moving Picture Exchange
 DRP -Web3D File
 DRS -Display Resource
-DRV -Driver
+DRV - Device Driver.
 DRW -Designer vector graphics file
-DS -TWAIN Data Source
+DS - TWAIN Data source file.
 DS1 -Map file
 DS4 -Vector graphics
 DSC -Celestia Deep Space Catalog file
-DSC -Description file
-DSC -Discard file
 DSD -Database
 DSF -Data Storage Format
-DSF -Delusion Digital Sound File
 DSK -Desktop configuration
-DSK -Disk Drivers
-DSK -Logical disk file
 DSM -Digital Sound Module
 DSN -Design
 DSP -Display parameters
-DSP -Dynamic Studio Professional Module
-DSP -Graphics display driver
-DSP -Norton viewer DLL
-DSP -Visual Studio 6 project file
 DSR -Driver Resource
 DSS -Screensaver file
-DSS -Digital Speech Standard (Sound)
-DSS -SQL Script for .Time Framework
 DST -Tajima Embroidery Format
-DST -WAIN (Scanner spec) data source DLL
 DSV -Nintendo DS battery save
 DSW -Borland C++ 4.x desktop layout file
 DSY -DAISY container file
+DT_ -Data fork of a Macintosh file
 DT1 -Tile file
 DT2 -msn-emoticon
-DT_ -Data fork of a Macintosh file
 DTA -Data file
 DTB -Database Backup for .Time Framework
+dtd - Document Type Definition File
 DTF -Database file
 DTL -Django template language
 DTM -DigiTrekker music module
 DTO -data
 DTP -Desk Top Publishing Document
-DTP -Page Magic 2.0 publication
-DTP -Publication
 DTS -Torque Game Engine model format
+DUN - Dial-up networking configuration file.
 DVC -Data
 DVDPROJ -iDVD project file
 DVI -DeVice Independent document
 DVP -DESQView run-file
-DVP -Device parameter file
 DW2 -Drawing
 DWB -Coryphaeus Software Designers Workbench
 DWC -Archive
 DWD -DiamondWare Digitized file
-DWG -Drawing
+DWG - Autocad drawing.
 DWZ -DVD MovieFactory for TOSHIBA Project File, Designer vector graphics file
 DX -Text file
-DXF -Dialogue Exchange Format
-DXF -Drawing Interchange File Format vector graphics
+DXF - Autocad drawing exchange format file.
 DXN -Fax
 DXP -SpotFire data
-DXP -ISO creation project file
 DYLIB -Dynamic Library
 DYN -Data
 E -E language source code
 E2D -2-dimensional vector graphics file
-EAS -Extended file attributes
 EAR -Enterprise archive
+EAS -Extended file attributes
 EBA -Source code
 EBJ -Error-checking object file
 EBQ -CITE standard electronic BQ exchange file
 EC -Error checking preprosessed Goc source code
-EC -Source code
+ECAB - EGT Compressed Folder used in advanced systems to compress entire system folders, replaced by EGT Universal Document 
 ECC -Error-checking file
 ECE -Escenic Contentng Engine dynamic page
 ECMS -Status document
@@ -1295,28 +656,25 @@ ED5 -EDMICS
 EDA -Ensoniq ASR disk image
 EDE -Ensoniq EPS disk image
 EDF -European data format
-EDF -Exchequer Document Format
 EDK -Ensoniq KT disk image
 EDL -EDL
 EDQ -Ensoniq sq1,2/ks32 disk image
 EDS -Ensoniq SQ80 disk image
 EDT -Default settings
-EDT -Ensoniq TS disk image
-EDT -External editors definitions
 EDV -Ensoniq VFX-SD disk image
+EEA - An encrypted CAB, ostensibly for protecting email attachments 
 EEB -Button bar for Equation Editor
 EFA -Ensoniq ASR file
-EFA -Encrypted File Archive
 EFE -Ensoniq EPS file
-EFE -Ensoniq EPS instrument file
 EFK -Ensoniq KT file
 EFQ -Ensoniq SQ1/SQ2/KS32 file
 EFS -Ensoniq SQ80 file
 EFT -Ensoniq TS file
-EFT -High resolution screen font
 EFV -Ensoniq VFX-SD file
 EFX -Fax
 EGA -EGA display font
+egg - Alzip Egg Edition compressed file 
+EGT - EGT Universal Document also used to create compressed cabinet files replaces .ecab 
 EKA -Internal data files
 EL -ELISP source code file
 ELB -Synergy/DE library
@@ -1326,25 +684,20 @@ ELI -Archive
 ELT -Event list text file
 EMAKER -E language source code (maker)
 EMD -ABT Extended MoDule
-EMF -Microsoft Enhanced Metafile
-EML -Stationery Template
+EMF - Enhanced Windows Metafile.
+EML - Microsoft Outlook e-mail file.
 EMU -Terminal emulation data
 ENC -Encoded file - UUENCODEd file
-ENC -Music
 END -Arrow-head definition file
 ENFF -Extended Neutral File Format
 ENG -Dictionary engine
-ENG -English documentation
-ENG -Graphics file (charting)
 ENV -Envelope or Environments
-ENV -Enveloper macro
-ENV -Environment file
 EOT -Embedded Open-Type
 EPA -Award BIOS splash screen
 EPD -Publication
 EPI -Document
-EPI -Encapsulated PostScript graphic file
-EPS -Encapsulated PostScript (Graphics format)
+EPS - Encapsulated PostScript supported by most graphics programs.
+EPS2 - Adobe PostScript Level II Encapsulated Postscript.
 EPUB -Electronic Publication - (e-Reader format)
 EQN -Equation filE
 ERD -Entity Relationship Diagram graphic file
@@ -1352,8 +705,10 @@ ERL -Erlang source code file
 ERM -Entity Relationship Diagram model file
 ERR -Compiler/linker error report
 ESH -Extended Shell batch file
-ETH -Document
+ESRI shapefile
+ESS - EGT SmartSense File, detects files compressed using the EGT compression system. 
 ETF -Encrypted Text File. Used in some security programs.
+ETH -Document
 ETW -Proprietary format from EnterTech for the MagicSing/Mic Karaoke product line.
 ETX -Structure-enhanced text for some ascii text browsers
 EUI -Ensoniq EPS family CD image
@@ -1362,20 +717,16 @@ EVY -Document
 EWD -Document
 EX3 -Device driveR
 EXC -Exclude file for Optimize (do not process) (QEMM)
-EXC -REXX source code file
-EXE -Directly executable program
+EXE - DOS based executable file which is also known as a program.
 EXF -Excute file
 EXM -MSDOS executable, system-manager compliant (HP calculator)
 EXP -Drawing File format
-EXP -Melco Embroidery Format
-EXP -Protected mode EXE by PharLap Software
-EXP -Exports Library File
 EXT -Extensions descriptions file
 EXX -Intermediate file by MsgPut
-EZW -easyOFFER document file[4]
 EZF -Fax
+ezip - EGT Compressed Folder used in advanced systems to compress entire system folders, replaced by EGT Universal Document 
+EZW -easyOFFER document file[4]
 F -Archive
-F -Fortran language source code file (in fixed form)
 F01 -Fax
 F03 -Fortran language source code file (in free form)
 F2R -Farandole Linear Module
@@ -1403,11 +754,8 @@ FC -Spell checking dictionary
 FCM -Binary file patch file (forward compression)
 FCP -Final Cut Pro project file
 FD -Declaration file
-FD -Field offsets for compiler
-FD -Front Door' resource files
 FDB -Font Definition Block
 FDS -fwNES Famicom Disk System image
-FDS -Headerless Famicom Disk System image
 FDW -Form
 FDX -Screenplay
 FE -Data
@@ -1415,64 +763,47 @@ FEB -Button bar for Figure Editor
 FEI -Fatal Error Infotable
 FES -File produced when a fileless occurrence in 3D Topicscape is exported to Windows
 FF -Intelligont FIAS format
-FF -Outline font description
 FFE -Front Fareast Famicom image format
 FFF -Fax
 FFI -Atech FastFont (AllType)
 FFIVW -File Format for the Interchange of Virtual Worlds
+FFL - Microsoft Fast Find file.
+FFO - Microsoft Fast Find file.
 FFT -Dca/FFT Final Form Text text file (DisplayWrite)
-FFT -DCA/FFT Final Form Text text file
 FH3 -Vector graphics
 FH4 -Vector graphics
 FI -Interface file
 FIF -Fractal Image Format file
 FIG -Figure File
 FIL -Table Data
-FIL -File template
-FIL -Filelist
-FIL -Files list object file
-FIL -Mirror. FIL is the name given to the saved FAT by the mirror program included in some versions of DOS and in PCTools
-FIL -Overlay
-FIL -File which was moved to the Virus Vault by AVG
 FILE -A generic Windows file
 FILM -Filmkey film file
 FIN -Print-formatted text file
 FIO -Aldus PhotoStyler graphics filter
-FIO -Image PALS viewer DLL
 FIT -File Index Table
-FIT -see FITS
-FIT -Fityk Script
 FITS -Flexible Image Transport System
 FIX -Patch file
 FKY -Macro file
-FLA -Source material for Flash applications (see SWF)
+FLA - Macromedia Flash movie format.
 FLAC -Audio codec, Audio file format
 FLAME -Fractal configuration file
 FLB -Format library
 FLC -Animation format FLIC >320x200
 FLD -Folder
 FLI -Animation format FLIC 320x200
-FLI -TeX font library
 FLM -Film Roll
 FLP -Flstudio project file
 FLT -Data/file conversion filter (or overlay)
-FLT -Filter file
-FLT -MultiGen Flight
-FLT -Support file - graphics filter
+flv - Flash Video File
 FLX -Animation format
-FLX -Compiled binary
-FLV -A container format for Flash Video (see also SWF)
 FM -Database
 FM1 -Spreadsheet format overlay
 FM3 -Device driver
-FM3 -Spreadsheet
 FMB -File Manager Button bar
 FMF -Font or icon file
 FMK -Makefile
 FMO -Compiled format file
 FMT -Format file
-FMT -Gate3 format file
-FMT -Style sheet
 FMV -Full Motion Video file
 FN3 -Font file
 FND -Files searching properties
@@ -1480,24 +811,19 @@ FNI -FileNet Native Document
 FNK -FunkTracker music module
 FNM -Fannie Mae Residential Loan Data (RLD) format for mortgage submission to DO/DU
 Fnn -DOS screen text font - height nn pixels
-FNT -Font file
+FNT - Font file.
 FNX -Inactive font
 FO1 -Font file
 FO2 -Font file
 FOG -Fontographer Database File
 FOL -Folder of saved messages
-FON -Log of all calls
-FON -Terminate phonebook
-FON -Windows bitmapped font file
+fon - Generic Font File
 FONT -Font data
 FOP -Freedom of the Press graphic file
 FOR -Form
-FOR -Fortran language source file
 FOT -Installed Truetype font
 FOX -Foxbase executable (precompiled .prg)
 FP -Final Page file
-FP -Tiff file
-FP -Video file
 FP3 -Database
 FP4 -Database
 FP5 -Database
@@ -1508,7 +834,6 @@ FPM -Configuration file
 FPT -Foxpro memo field tables
 FPU -Configuration file
 FPW -Floorplan drawing
-FPW -Configuration file
 FPX -FlashPix Bitmap Image File
 FR? -Packed mail
 FR3 -Renamed dBASE III+ form file
@@ -1516,30 +841,24 @@ FRF -FontMonger Database file
 FRG -Uncompiled report file
 FRL -GP-Forth library
 FRM -Registration or other form
-FRM -Report file
-FRM -Visual Basic Form
 FRO -Compiled report file
 FRP -Form
 FRS -Screen Font Resource
 FRT -Additional (FPT) report description file
-FRT -GP-Forth source file
 FRX -Main (DBF) report description file
-FRX -Visual Basic binary program file
 FSA -Applied Biosystems Genetic Analysis data file
 FSIM -Simulation File Format
 FSL -Form
 FSM -Farandole Composer WaveSample
 FSPROJ -Habanero Firestarter project
 FST -Linkable program
-FST -Temporal database file
 FSTICK -Temporal database file
 FSX -Data
 FTD -Falcon dynamic template
 FTM -Fielded Text Meta - Contains schema/Meta for a Fielded Text file
-FTM -Font file
+FTP -Configuration
 FTX -Declared Fielded Text
 FTXT -text
-FTP -Configuration
 FUK -Map File
 FW -Database
 FW2 -Database
@@ -1555,70 +874,52 @@ G16 -GoldED for DOS compiled config
 G3D -Glest model file
 G3P -data
 G8 -Raw graphics file (one byte per pixel) plane three
+gadget - Windows Gadget
 GAF -Globa Game Engine audio format
-GAM -Fax
+gam - Saved Game File
 GAMEPROJ -Gamesalad game project format
 GB -Game Boy ROM
 GB1 -Game Maker backup file (can also be GB2, GB3, etc.)
 GBA -Game Boy Advance ROM
 GBC -Game Boy Color ROM
 GBL -Genesis Bitmap Layout
-GBL -Global definitions
-GBL -Global module in Basic programs
 GBP -Genesis Bitmap Pattern
+gbr - Gerber File
 GBS -GBS meta data
-GBR -Gerber format
-GBR -GIMP brush
 GC -Savegame
 GC1 -Lisp source code
 GC3 -Lisp source code
 GCA -IBM GOCA
 GCD -Graphics
-GCD -General content descriptor
-GCD -Generic Cadd drawing
 GCF -Game cache file
 GCH -GNU preprocessed C++ header file
 GCI -Nintendo GameCube save file
 GCX -Graph file
 GD3 -Game Doctor Super NES ROM image
 GDF -General Data Format for Biomedical Signals
-GDF -Dictionary file
-GDF -Geographical Data Format
-GDF -IBM Graphics Data Format
 GDL -Data
 GDS -McDonnell-Douglas Things
-GDT -Gerätedatentransfer, an xDT application
+GDT -Gerï¿½tedatentransfer, an xDT application
 GE -GEcho config file
-GED -GEDCOM
-GED -EDITOR's native file format
-GED -GoldED for DOS compiled config file
-GED -Graphics editor file
-GED -Game Editor Data / project file
+ged - GEDCOM Genealogy Data File
 GEM -Vector graphics file
 GEN -Compiled template
-GEN -Generated text
 GEO -Geode
-GEO -GEOS specific file (application)
-GEO -GoldED for OS/2 compiled config file
 GEX -GEcho config file
 GFB -Compressed GIF image created by GIFBLAST
 GFO -SGI Radiosity
 GFT -Font
-GFT -GEM-translator font file
 GFX -Instant Artist graphics Files
-GFX -PCBoard @X-coded colorful text
-GHO -Norton Ghost File (first file)
-GHS -Norton Ghost File (split file)
+GHO - Norton Ghost
+GHS - Norton Ghost 
 GHW -GHDL Wave file
 GIB -Chart
-GIB -GIMP animated brush
-GID -Help index
-GIF -Compuserves' Graphics Interchange Format (bitmapped graphics)
+GID - Windows global index. Contains the index information used by "Help" in Windows.
+GIF - Graphics Interchange Format that supports animation. Created by CompuServe and used primarily for web use.
 GIW -Presentation
 GKH -Ensoniq Disk Image (VFX, SD, EPS, ASR, TS)
 GKS -Graphics Kernel System
 GL -Animation format
-GL -Animation
 GLB -Global module in Basic programs
 GLM -Datafile, KernelCAD model
 GLO -Global module in Basic programs
@@ -1633,33 +934,30 @@ GML -GameMaker GML script file
 GMOD -Data
 GMP -Geomorph tile map
 GMS -Ghost Mouse Script
-GMS -Gesture and Motion File Formats
 GMT -data
 GMX -GameMaker:Studio Editable File as of 1.x
 GOC -Goc source code file
 GOE -GOES graphic file
 GOH -Goc header file
-GP5 -Guitar Pro 5 song
 GP -Geode parameter file
 GP4 -data
+GP5 -Guitar Pro 5 song
 GPH -Graph
 GPK -Omnigo program package
-GPX -GPS eXchange Format
+gpx - GPS Exchange File
 GR2 -Screen driver
 GRA -Datafile
 GrADS -Metafile
 GRAFFLE -OmniGraffle graph file
 GRASP -Graphical System for Presentation
 GRB -T-FLEX CAD file
-GRB -MS-DOS Shell Monitor file
 GRD -Drivers for GRX (graphics library)
 GRDNT -Image format used in the core of some very obscure customized operating systems to represent gradients; see also SCTOR
 GRE -data
 GRF -Graph file
 GRIB -Gridded Binary
 GRN -Drivers for GRX (graphics library)
-GRP -Group file
-GRP -Pictures group
+GRP - Microsoft Program Manager Group.
 GRY -Graphics format (RAW GREYz)
 GS -Script written in Google Apps Script, used for automating tasks across online Google products
 GS1 -Presentation
@@ -1674,63 +972,51 @@ GUP -
 GV -GrandView outline file
 GVO -Data
 GWI -Groupwise File
-GXL -Graphics library
 GXK -Secure Data encryption Format
-GZ -Archive
+GXL -Graphics library
+GZ - Unix compressed file.
+gzip - Compressed file 
 GZR -data
+h - C/C++/Objective-C Header File
 H!  - On-line help file
-H!  - Pertext database
-H -  - C—language header
-H  - Header file (usually C language)
 H++  - Header file
 HA  - Archive
 HAL  - Data file
 HAM  - Disk Drivers NPA
-HAM  - Hold And Modify
 HAP  - Archive
 HBC  - Compressed Archive File (Shrink Algorithm)
-HBC  - Compressed Archive File (Shrink Fast Algorithm)
 HBE  - Compressed, Encrypted Archive File (Shrink & AES256-bit Encryption)
 HBK  - MathCAD handbook
 HC  - Header file
 HCG  - Document
 HCGS  - Document
 HDD  - data
-HDD  - HotDisc Designer label
 HDF  - Amiga Hard Disk Image
-HDF  - Help file
-HDF  - Hierarchical Data File graphics file
 HDL  - Alternate download file listing
 HDMP  - heap dumpfile
 HDR  - Datafile
-HDR  - Message header text
-HDR  - PC-File+ Database header
-HDR  - SPOT image file
 HDS  - Hierarchical Data System
 HDW  - Vector graphics
 HDX  - Help index
 HDZ  - Amiga Zip compressed Hard Disk Image
 HEP  - Novell Help Librarian Data File
-HEX  - Hex dump
+HEX - Macintosh binary hex(binhex) file.
 HFI  - HP Font Info file
 HGL  - Highlight groups definitions
-HGL  - HP Graphics Language graphics file
 HH  - C++ header file
 HHH  - Precompiled header file
 HHP  - Help information for remote users
 HI  - Game high scores table
 HIN  - Molecule
 HIS  - History of executing/viewing/editing
-HIS  - Yard Information File
 HKM  - Stores sound in a bitmapped graphics file
 HLB  - Help library
-HLP  - Help file
+HLP - Standard help file.
 HLX  - Multi Edit help file
 HLZ  - Multi Edit packed help file
 HMI  - Music format (MIDI)
 HMM  - Alternate Mail Read option menu
 HMP  - Music format (MIDI)
-HMP  - Hump Setup File - Obsolete as of version 2.4 (See SET and SWT files)
 HNC  - CNC program files Heidenhain (?) dialog
 HOF  - Hall Of Fame (game scores)
 HOM  - CAD Software Data File
@@ -1743,11 +1029,9 @@ HPI  - Font information file
 HPJ  - Help project
 HPK  - Archive
 HPM  - Alternate Main menu for privileged users
-HPM  - EMM text
-HPM  - High Performance Map
 HPP  - C++ header file
 HPPCL  - Hewlett-Packard Printer Control Language
-HQX  - Archive (ASCII Mac)
+HQX - Macintosh binary hex(binhex) file.
 HRF  - Graphics file (Hitachi Raster Format)
 HRM  - Alternate Main menu for limited/normal users
 HRZ  - Graphics format
@@ -1756,8 +1040,9 @@ HSC  - 2-op FM music
 HSH  - Disk image hash file
 HSI  - Handmade Software Inc. graphics file almost JPEG
 HST  - History file
-HTM  - see HTML
-HTML  - Hypertext Markup Language (WWW)
+HT - HyperTerminal files.
+HTM - Hyper Text Markup. This markup language is used for web design.
+HTML - Hyper Text Markup Language. This markup language is used for web design.
 HTX  - Hypertext file
 HUS  - Husqvarna Viking Embroidery Format
 HWA  - Hollywood applet
@@ -1773,42 +1058,39 @@ HYC  - Data
 HYD  - Hyphenation dictionary
 HYP  - Archive
 I  - Preprocessor output file
-I  - SWIG interface file
 IAK  - Internet Access Kit
 IAM  - Assembly file
 IAX  - Bitmap graphics (IBM Image Access eXecutive)
-IAX  - data
 IBG  - PDS graphic file
 IBM  - Archive (Internal IBM only)
+ibooks - Multi-Touch iBook
 ICA  - Bitmap graphics (Image Object Content Architecture)
 ICB  - Bitmap graphics
 ICC  - ICC configuration
 ICE  - Archive
 ICFE  - IceFormula Equation Workspace
 ICFM  - IceFormula Math Workspace
-ICM  - ICC configuration
+ICL - Icon Library File.
+ICM - Image Color Matching profile.
 ICN  - ICON source code file
-ICO  - Icon file
+icns - Mac OS X Icon Resource File
+ICO - Microsoft icon image.
+ics - iCalendar File
 ID  - Disk identification file
 IDB  - IDA database
-IDB  - VC++ Minimum Rebuild Dependency File
 IDC  - IDA C language source
 IDE  - Borland C++ 4.x IDE project
 IDF  - MIDI instrument description
 IDS  - IDA imported names format
 IDW  - Vector graphics
-IDW  - Drawing file
 IDX  - Index
 IFD  - Form
-IFF  - Interchange Format File (IFF)
-IFF  - Sun TAAC Image File Format
+iff - Interchange File Format
 IFP  - Script
 IFS  - Fractal image compressed file
-IFS  - Iterated fractal system file
-IFS  - Installable file system
+IGC  - Flight tracks downloaded from GPS devices in the International Gliding Commission's prescribed format
 IGES  - Initial Graphics Exchange Specification
 IGF  - Inset Systems
-IGC  - Flight tracks downloaded from GPS devices in the International Gliding Commission's prescribed format
 IHP  - Watcom help file
 IHS  - Inbound History
 IIW  - Power Point Image Importer Wizard
@@ -1820,11 +1102,6 @@ IM  - Auran Jet indexed mesh file
 IM8  - Sun raster graphics file
 IMA  - Mirage vector graphics
 IMG  - ADEX graphic file
-IMG  - Disk Image
-IMG  - GEM bitmapped graphics file
-IMG  - Image for Windows/Image for DOS Disk image
-IMG  - Vivid IMG file
-IMI  - image
 IMI  - image
 IMP  - Spreadsheet
 IMQ  - Image presentation
@@ -1834,23 +1111,14 @@ IN3  - Input device driver
 INB  - Test script
 INC  - Include file
 IND  - Data Index
-INDD  - InDesign Document
-INF  - Information text file (ASCII)
-INF  - Install script
-INF  - OS/2 hypertext help system file
-INF  - Type 1 LaserJet font information file
+indd - Adobe InDesign Document
+INF - Information file used in Windows.
 INFO  - GNU info reader (output from Texinfo)
-INFO  - Icon Data (Amiga)
 INGR  - Intergraph Raster File Format
-INI  - Initialization file
+INI - Initialization file used in Windows.
 INK  - Pantone reference fills file
 INS  - Data
-INS  - Ensoniq Instrument File
-INS  - Installation script
-INS  - Instrument music file (Adlib)
 INT  - Borland Interface Units
-INT  - Program saved in Internal (semi-compiled) format
-INT  - Source of Borland interface module
 INX  - Index
 IO  - Archive
 IOB  - 3d graphics database in TDDD format
@@ -1860,14 +1128,13 @@ IP  - Immortal Player file
 IPA  - Apple iOS Application
 IPC  - Intellitec Program Configuration - used to configure vehicle electronics
 IPF  - Interchangeable Preservation Format
-IPG  - iPod game file
+IPG - Format in which Apple Inc. packages their iPod games. can be extracted through Winrar 
 IPH  - Hi-Res Image
 IPL  - Pantone Spot reference palette file
 IPN  - Intecplan project
 IPS  - IPS Patching Format (International Patching System)[citation needed]
 IPSW  - iOS firmware file
 IPT  - Part file
-IPT  - MultiColor Image
 IRRMESH  - static irrMesh files
 IRS  - Resource (WordPerfect) standard.irs
 IRT  - Data
@@ -1875,16 +1142,14 @@ IRTR  - Graphicon-2000 Interactive Real-Time PHIGS
 ISD  - Spelling Checker dictionary
 ISH  - Archive
 ISMA  - Output Video file
-ISO  - ISO-9660 table
+iso - Disc Image File
 IST  - Digitrakker Instrument File
 IT  - Impulse Tracker music file
-IT  - Settings
 ITF  - Interface file
 ITL  - iTunes music library
 ITN  - Itinerary file
 ITT  - IconTweaker Theme
 IV  - SGI Inventor
-IV-VRML  - Inventor VRML Format
 IVE  - OpenSceneGraph 3D model
 IVI  - Image file
 IVL  - Lensflare file
@@ -1899,12 +1164,11 @@ IX  - data
 IZT  - Izl binary token file
 J2C  - JPEG 2000 image
 JAM  - Jam messagebase
-JAM  - Jam music score
-JAR  - Java archive
+JAR - Java Archive. A compressed java file format.
 JAS  - see JASC
 JASC  - Graphics format (JASC)
 JAV  - see JAVA
-JAVA  - Java source code file
+java - Java Source Code File
 JBD  - Datafile
 JBIG  - Joint Bilevel Image Group
 JBX  - Project file
@@ -1916,22 +1180,20 @@ JFIF  - JPEG File Interchange Format
 JIF  - see JFIF
 JMS  - Music format (JMusic file)
 JOB  - Gravostyle engraving pattern file
-JOB  - QUEUE output file
 JOR  - Journal file SQL
 JOU  - Journal backup
 JP2  - JPEG 2000 image
 JPC  - Graphics
-JPEG  - Joint Photographic Experts Group graphics file format
-JPG  - see JPEG
+JPEG - Compression scheme supported by most graphics programs and used predominantly for web use.
+JPG - More common extension for JPEG described above.
 JPS  - backup of startup files (AUTOEXEC.BAT,CONFIG.SYS,4DOS.INI) by installation of 4DOS (JP Software)
 JRE  - Java Runtime Environment
 JRN  - JMP journal
-JS  - JavaScript file
+JS - JavaScript File A text file containing JavaScript programming code.
 JSON  - JSON (JavaScript Object Notation)
 JSONLD  - JSON-LD, a JSON-based Serialization for Linked Data
-JSP  - JavaServer Pages
+jsp - Java Server Page
 JTF  - Fax
-JTF  - Graphics (TIFF file with JPEG compression)
 JVX  - Data
 JW  - Text document
 JWL  - Library
@@ -1940,9 +1202,7 @@ K2A  - Data
 K3D  - Description of macro language 3DS
 KAP  - Map Info Sea Chart
 KAR  - Music format (Karaoke)
-KAR  - Precompiled .prg for KARAT
 KB  - Keyboard script
-KB  - Program source
 KBASIC  - Source
 KBD  - Keyboard mapping
 KBM  - Keyboard mapping
@@ -1952,19 +1212,15 @@ KDBX  - KeePass 2.x database file
 KDC  - Kodak Digital Camera (graphics)
 KEP  - (unknown)
 KEX  - Kedit Macro File
-KEY  - Datafile
-KEY  - Keynote presentation file
-KEY  - Keyboard macros
-KEY  - OS/2 archive .key-file (i.e. OS2.KEY)
-KEY  - Security file e.g. Shareware Registration info
-KEY  - Keynote
+key - Keynote Presentation
+keychain - Mac OS X Keychain File
 KFN  - complex music format|[1]
 KFX  - Kofax Group
 KIT  - Power Chords drum kit file
 KMC  - KatzReview's MegaCrammer
-KML  - Kedit Macro Library
+kml - Keyhole Markup Language File
 KMY  - data
-KMZ  - Keyhole Markup Language (Zip compressed)
+kmz - Google Earth Placemark File
 Knn  - Database key file
 KNO  - Personal Knowbase data file
 KO  - linux kernel object file
@@ -1980,3 +1236,1579 @@ KSM  - Pfaff Embroidery Format
 KTU  - Know The Unknown Online Service Packs
 KWB  - Knowledge WorkBench
 KYB  - Keyboard mapping
+L  - LEX source code file
+LA0  - Datafile
+LAB - Microsoft Excel mailing labels.
+LAN  - Erdas image file
+LAS  - Lasso File
+LASSO  - Lasso File
+LAY  - Word chart layout
+LBG  - Label generator data
+LBL  - Label
+LBM  - Graphics format (Amiga)
+LBO  - Compiled label
+LBR - Library file 
+LBT  - Additional (FPT) label description file
+LBX  - Main (DBF) label description file
+LCF  - Linker Control File
+LCH  - Chart
+LCK  - Lockfile
+LCL  - Data (FTP Software PC/TCP)
+LCN  - Lection
+LCS  - Datafile
+LCW  - Spreadsheet
+LD  - Long Distance codes file
+LD1  - Overlay file
+LDA  - Absolute binary file (load image)
+LDB  - Data filer database
+LDF  - Data filer form
+LDT  - Labordatentrï¿½ger, an xDT application
+LE  - DOS/4GW executable image
+LES  - Lesson (check *.cbt)
+LEV  - Level file
+LEX  - Dictionary
+LFD  - LucasArts resource file
+LFL  - LucasArts resource file
+LFT  - Laser printer font
+LG  - Logo procedure definitions
+LGO - Windows 9x startup logo.
+LHA  - Archive
+LHA (.lzh) - Lempel, Ziv, Huffman 
+LHW  - Amiga archive
+LIB  - Library file
+LIC  - License file used by some programs to put their license on disk
+LIF  - Archive
+LIM  - Archive
+LIN  - Line types
+LIS  - Listing
+LIT - eBooks in Microsoft Reader format.
+LIX  - Log file (history)
+LJ  - Text file for HP LJ II printer
+LL3  - LapLink III related file (document)
+LM  - Auran Jet LOD mesh table (text file to control LODs)
+LMP  - Doom lump (data file, commonly "demo" recordings)
+LNG  - Language definition file
+LNK - Windows 9x shortcut file.
+LOD  - Load file
+LOG - Application log file.
+LOM  - 3D Model
+LPC  - Printer driver
+LQR - LBR Library file compressed by the SQ program. 
+LRC  - Lyrics data
+LRF  - Linker response file
+LRP  - Report
+LRS  - Language Resource File
+LRX  - Encrypted BroadBand eBook file
+LSA  - Lightscape Technologies ASCII
+LSB  - Lightscape Technologies Binary
+LSP - Autocad(visual) lisp program.
+LSS  - Spreadsheet
+LST  - Aus. BOM Hourly weather Data
+LTA  - Data
+LTM  - Form (Lotus Forms)
+lua - Lua Source File
+LUW  - label data file
+LUX  - 2D and 3D graphics data file
+LUZ  - 3D graphics data file
+LWD  - Text document
+LWO  - Lightwave Object Format
+LWP  - Word processor
+LXF  - Lego Exchange Format
+LXO  - Luxology scene
+LXT  - Temporal database file
+LY  - LilyPond Notation File
+LYR  - Lyrics (ASCII)
+LYT  - Document Layout file
+lz - Compressed file 
+LZD  - Difference file for binaries
+LZH  - Archive
+lzip - Compressed file
+lzma - Compressed file 
+lzo - Compressed file 
+LZS  - Archive
+LZW  - Archive
+LZX - (algorithm) 
+m - Objective-C Implementation File
+M2  - WoW Model Object file
+M2TS  - MPEG 2 Transport Stream
+m3u - Media Playlist File
+M3U8  - Unicode version of M3U playlist file (UTF-8)
+m4a - MPEG-4 Audio File
+M4r  - iPhone ringtone
+m4v - iTunes Video File
+M7P  - Multilizer 2007 and 2009 localization project file
+M8M  - 8MAM8 Model File
+MAFF  - Mozilla Archive Format
+MAI  - Mail
+MAK  - Makefile
+MAN  - User guide (manual)
+MANAGER  - Accounting data file
+MAP  - Color palette file
+MAQ - Microsoft Access Query.
+MAR - Microsoft Access Report.
+MAS  - SmartMaster set
+MAT  - Data
+max - 3ds Max Scene File
+MB  - Memo field values for database
+MBK  - Multiple index file backup
+MBP  - Metadata
+MBR  - Master Boot Record File
+MBW - MBRWizard archive 
+MBX  - Mailbox data
+MCA  - Minecraft "Anvil" world format
+MCC  - Configuration file
+MCD  - MathCad file
+MCF  - Font file
+MCI  - MCI command script
+MCL  - Multi Edit macro library
+MCP  - Application script
+MCR  - Minecraft saved world "region" file
+MCW  - Text file
+MD  - Archive
+MD2  - Quake 2 Model File
+MD3  - Quake 3 Model File
+MD5  - Doom 3 and Quake 4 Model File
+MDA  - Data
+MDB - Microsoft Access DataBase File.
+mdf - Media Disc Image File
+MDL - Rose model file. Opens with Visual Modeler or Rational Rose.
+MDM  - Modem definition file
+MDMP  - Mini dumpfile
+MDR  - Microdrive file
+MDS  - Midi Session
+MDT  - Data table
+MDX  - Multiple index file
+MDZ  - Text description of music module
+ME  - MultiEdit configuration
+MEB  - Macro Editor bottom overflow file
+MEC  - MECCA source
+MED  - Macro Editor delete save
+MEM  - Macro Editor macro
+MEQ  - Macro Editor print queue file
+MER  - Macro Editor resident area (vakioalue)
+MES  - Macro Editor work space file
+MET  - Document
+MEU  - Menu group
+MEX  - Macro Editor expound file
+MF  - Metafont file
+MFA  - Source code file
+MFF  - MIDI
+MFM  - Music format
+MGF  - Font
+MGX  - Designer 4.1 Drawing
+MHT  - Web Archive Single File
+MIB  - Snmp MIB file
+MID - MIDI music file.
+MIDI  - See MID
+MIFF  - Magick Image File Format
+MII  - Datafile
+mim - Multi-Purpose Internet Mail Message File
+MIME  - Message in MIME format (RFC822)
+miniUSF  - Nintendo proprietary MIDI file format for the Reality Signal Processor (Nintendo 64)
+MIO  - MyInfo topic
+MIS  - Mission, used by many games
+MIT  - Mitsubishi Embroidery Format
+MIX  - Object file
+MK  - Makefile
+MKE  - Makefile
+MKG  - Makefile
+MKI  - Graphics format (Japan MKI)
+MKS  - Data
+MKV  - Matroska Multimedia Container
+ML3  - Project
+MLB  - Macro library file
+MLI  - 3DS Materials Libraries
+MLRAW  - Data
+MLV  - LabVIEW MathScript
+MM  - Text file
+MMF  - Mail message file
+MMM  - Multimedia movie file, RIFF RMMP format
+MMO  - Memo writer file
+MMP  - Output video format from Bravado board
+MN  - MuPAD Pro Notebook
+MND  - Menu source
+MNG  - Map
+MNT  - Additional (FPT) menu description file
+MNU  - Advanced macro file
+MNX  - Compiled menu file
+MNY  - Account book
+MO?  - Packed mail
+MOB  - Device definition file
+MOBI  - eBook
+MOD - Microsoft Windows 9.x kernel module.
+MOL  - MOD4WIN PlayList
+MOL2  - Triposï¿½ Sybyl MOL2 Format
+MON  - SYSGEN monitor build procedure
+MOP  - MOPAC input file
+MOV - Quicktime movie.
+MP2  - Mpeg audio file
+MP3 - MPEG Audio Layer 3.
+mp4 - MPEG-4 Video File
+mpa - MPEG-2 Audio File
+MPC  - Calendar file
+MPEG - Animation file format.
+mpg - MPEG Video File
+MPKG  - Multipackage installer script
+MPL  - MediaRack Midi Playlist
+MPM  - MathPlan macro
+MPP - Microsoft Project File.
+MPPZ  - MagicPlot project file
+MPQ - Archive used by Blizzard games 
+MPR  - Generated executable menu file
+MPT  - Bitmap graphics (Multipage TIFF)
+MPV  - View file
+MPX  - Compiled executable menu file
+MPZ  - Miradi Project Zipfile
+MRB  - Multiple Resolution Bitmap graphics file
+MRC  - mIRC file
+MRK  - Windows User Benchmark
+MRS  - Macro Resource file
+MS  - Microsoft antivirus report
+MSC  - Microsoft C makefile
+MSD  - Secure and Encrypted File
+MSDL  - Manchester Scene Description Language
+MSDVD  - Windows DVD Maker Project
+MSE  - Set file
+MSG - Microsoft Outlook message file.
+msi - Windows Installer Package
+MSN  - Project
+MSO  - Microsoft Word OLE Web Page Storage Stream
+MSP  - Bitmap graphics file
+MSPRODUCER  - Media Project
+MSQM  - data
+MSS  - Manuscript text file
+MST  - Document
+MSW  - Text file
+MSX  - CP/M archive
+MTH  - Math file
+MTL  - Wavefront
+MTM  - Music format
+MTS  - Master Track Pro Files
+MTV  - MTV Ray Tracer graphic file
+MTW  - Datafile
+MU  - Quattro pro for DOS Menu definition file
+MUM  - MATLAB CAPE-OPEN Unit Operation Model file
+MUS  - Finale music document
+MUZ  - Hover Game MIDI File
+MVF  - Stop frame file
+MVI  - Movie command file
+MVO  - Data
+MVW  - Log file
+MWF  - Animation
+MWS  - MWave DSP synths instrument
+MXF  - Material exchange format (RFC 4539, SMPTE 377M)
+MXL  - PackRat 5.0 support DLLs
+MXM  - Material
+MXP  - Adobe Extension File
+MXT  - Data
+MYP  - Presentation
+MZ  - Binary-format Map
+MZE  - Text-format Map
+MZG  - Binary-format Map Collection
+MZX  - Binary-format Encrypted Map
+NAM  - Name Space Modules
+NAP  - Naplps file (VideoShow)
+NAPLPS  - North American Presentation Layer Protocol Syntax
+NB  - Text file
+NBF  - Nokia Backup File
+NC  - Binary Data
+NCC  - CNC (Computer Numeric Control) control file
+NCD  - NC Drill File (Excellon Format, printed circuit board hole definitions)
+NCF - Netware command File.
+NCP  - Re-volt Collision file
+NDB  - Network database
+NDL  - Nodelist file
+NDS  - Nintendo DS ROM file used for Homebrew and commercial (Game) files on DS
+NDX  - Index file
+NEO  - Raster graphics file
+nes - Nintendo (NES) ROM File
+NET  - Network configuration/info file
+netCDF  - Network Common Data Format
+NEU  - Pro/Engineer neutral file format
+NEW  - Ameco Embroidery Format
+NFF  - Haines Neutral File Format
+NFO  - Folioview database
+NG  - Hypertext Database
+NGO  - NG linker object file
+NGS  - NG compiler source file
+NIF  - netimmerse/gamebyro file
+NIL  - NIL
+NITF  - National Imagery Transmission Format
+NK2  - e-mail address autocomplete archive
+NL  - Norton Desktop Icon Library
+NLM - Netware loadable Module.
+NLS  - National Language Support file
+NLX  - Form
+nmf  - Node Map File
+nnn  - Arj archive volumes up to 999
+NOT  - Notation
+NP  - Project schedule (Nokia Planner)
+NPI  - Source for DGEN.EXE interpreter
+NPJ  - Nile Project
+NRG  - Nero Disc Image File
+NRW  - Nikon Coolpix RAW image
+NSA  - media
+NSF  - database
+NSS  - Norton screensaver module
+NST  - Music module
+NSV  - media
+NSX  - Compound index file
+NT  - Startup files
+NT3  - BAHN Layout file
+NTF  - database design template
+NTH - Nokia Theme Used by Nokia Series 40 Cellphones 
+NTR  - Executable ASCII text file (strip header and rename)
+NTS  - Executable ASCII text file (strip header and rename)
+NTX  - Database index file
+NUF  - Message for new users on their 1st call
+NUMBERS  - Numbers spreadsheet file
+NV  - NewViews DOS accounting database
+NV2  - NewViews accounting database
+NWS  - Info text file (latest news) (ASCII)
+NXT  - Sound (NeXT format)
+O - Object file, used by linkers.
+O$$  - Outfile
+O01  - Typhoon vOice file
+OAZ  - Fax
+OB  - Object cut/paste file
+OBD  - Microsoft Office Binder
+obj - Wavefront 3D Object File
+OBJF  - Data
+OBR  - Object browser data file
+OBS  - Script
+OBT  - Microsoft Office Binder Template
+OBV  - Visual interface
+OBZ  - Microsoft Office Binder Wizard
+OCD  - OCAD Map File
+OCF  - Object Craft File
+OCR  - Incoming fax transcribed to text
+OCT  - Musical file
+OCX - ActiveX Control: A component of the Windows environment.
+ODB  - OpenDocument database
+ODF  - OpenDocument formula
+ODG  - OpenDocument drawing
+ODIF  - Open Document Interchange Format
+ODL  - Object Description Language
+ODM  - OpenDocument master document
+ODP  - OpenDocument presentation
+ODS  - OpenDocument spreadsheet
+odt - OpenDocument Text Document
+OFD  - Form definition
+OFF  - Object File Format vector graphics file
+OFM  - PostScript font description file
+OFN  - Microsoft Office documents
+OGG - Ogg Vorbis digitally encoded music file.
+OHB  - Source
+OHS  - Outbound History
+OIF  - QuickBase file format
+OKT  - Music (8 channels)
+OLB  - Object library
+OLD  - Backup file
+OLI  - Text file
+OLSR  - Configuration file
+OMA  - Audio file
+OMF  - Open Media Framework
+OMG  - Audio file
+OOF  - Data
+OOG  - Data
+OOM  - Swap file
+OPJ  - Origin Project File
+OPN  - Active options
+OPT  - Options
+OPW  - Organization chart
+OPX  - Inactive options
+ORA  - Parameter file
+ORC  - Orchestra MIDI file
+ORG  - Calendar file
+OST - Microsoft Exchange/Outlook offline file.
+OTB  - Over-the-air bitmap graphics
+otf - OpenType Font
+OTG  - OpenDocument drawing template
+OTH  - OpenDocument HTML document template
+OTL  - Outline font description
+OTP  - OpenDocument presentation template
+OTS  - OpenDocument spreadsheet template
+OTT  - OpenDocument text document template
+OTX  - Text file
+OUT  - Output file
+OV1  - Overlay file (part of program to be loaded when needed)
+OV2  - Overlay file (part of program to be loaded when needed)
+OVD  - Datafile
+OVL  - Overlay file (part of program to be loaded when needed)
+OVR  - Overlay file (part of program to be loaded when needed)
+OXT  - OpenOffice.org extension
+P  - Database PROGRESS source code
+P0?  - Split archive UC2
+P10  - Tektronix Plot
+P12  - Personal Information Exchange
+P16  - Music (16 channels)
+P22  - Patch file (Patch22)
+p2v  - Backupfile of a project in eventplanning software plan2viz (windowsbased)
+P3T  - PlayStation 3 Theme file
+P80  - PLM-80 source
+P86  - PLM-86 source
+PA1  - Worktable
+PAC  - SBStudio II Package or Song
+PACK  - 
+PACKAGE  - Contents
+PAD  - Automatic print definitions
+PAF  - For Personal Ancestral File data files
+pages - Pages Document
+PAK - WAD file that contains information about levels, settings, maps, etc for Quake and Doom.
+PAL  - Palette file
+PAN  - Printer-specific file (copy to coreldrw.ink)
+PAR  - Parameter file
+PAR2  - Parity Archive v2
+part - Partially Downloaded File
+PAS  - Pascal language source
+PAT  - Gravis Ultrasound Patch
+PB  - Fax
+PB1  - Document
+PBA  - Powerbasic BASIC source code
+PBD  - Phone book
+PBI  - Powerbasic include file
+PBK  - Microsoft Network Phone book
+PBL  - Powerbasic library
+PBLIB  - Power Library
+PBM  - PBM Portable Bit Map graphics format
+PBO  - Profiler Binary Output
+PBT  - Profiler Binary Table
+PC  - Text file containing IBM PC specific info
+PC3  - Custom palette
+PC8  - ASCII text IBM8 character set
+PCA  - Perfect Clarity Audio
+PCB  - P-CAD database
+PCC  - Cutout picture vector graphics
+PCD  - Graphics format (Kodak Photo-CD)
+PCF  - Pixel Coordination Format
+PCH  - Patch file
+PCJ  - Multimedia authoring tool graphics file
+PCK  - Pickfile
+PCL - Printer Control Language file. PCL is a Page Description Language developed by HP.
+PCM  - OKI MSM6376 synth chip PCM
+PCQ  - Pfaff Embroidery Format
+PCS  - Microsoft PowerPoint picture package
+PCT - Macintosh drawing format.
+PCW  - Text file
+PCX  - PC paintbrush bitmap format
+PDA  - Bitmap graphics
+pdb - Program Database
+PDD  - Adobe Photoshop Elements Image
+PDE  - Pathology Data Exchange
+PDF - Portable Document File by Adobe. Viewable in a web browser or
+PDG  - Print Shop Deluxe data file
+PDI  - Portable Database Image
+PDL  - Project Description Language file
+PDM  - Program
+PDN  - Image file
+PDR - Port driver for windows 95. It is actually a virtual device driver (vxd).
+PDS  - PALASM Design Description
+PDV  - Printer driver
+PDW  - Document
+PEB  - Program Editor bottom overflow file
+PED  - Program Editor delete save
+PEM  - Program Editor macro
+PEQ  - Program Editor print queue file
+PER  - Program Editor resident area
+PES  - Program Editor work space file
+PET  - Program Editor top overflow file
+PEX  - Proboard EXecutable file (Executed from PB)
+PFA  - PostScript Font File
+PFB  - Adobe Acrobat document
+PFC  - (Personal File Cabinet) contains e-mail, preferences and other personal information
+PFK  - Programmable function keys
+PFM  - Windows Type 1 font metric file
+PFS  - Database (PFS:FILE) - text file (PFS:Write)
+PFT  - Printer font
+PG  - Page cut/paste file
+PGD  - 
+PGI  - Printer Graphics File device driver
+PGL  - HP Plotter vector graphics format
+PGM  - Graphics format (Portable GrayMap)
+PGP  - Support file
+PGS  - Manual page
+PH  - Optimized .goh file
+PHD  - PolyHedra Database
+PHF  - Database File
+PHM  - Phone book
+PHN  - Phone list
+PHO  - Phone database
+PHP - Web page that contains a PHP script.
+PHP3  - PHP 3 file
+PHP4  - PHP 4 file
+PHR  - Phrases
+PHTML - Web page that contains a PHP script.
+PI2  - Portrait Innovations High Resolution Encrypted Image file
+PIC  - 123 Vector graphics format
+PICT  - Macintosh Picture
+PIE  - GlovePIE script file
+PIF - Program Information File
+PiM  - Pascal Text Mode Image File
+PIPE  - PIPE-FLO project design file
+PIT  - Compressed Mac file archive created by PACKIT
+PIV  - Pivot Stick Animator file
+PIX  - Alias image file
+PJ  - Project
+PJT  - Additional (FPT) project description file
+PJX  - Main (DBF) project description file
+PK  - PacKed bitmap font bitmap file (TeX DVI drivers)
+PK2  - Quake 2 data file
+PK3 - (See note on Doom?) 
+PK4 - (Opens similarly to a zip archive.) 
+PKA  - Archive
+pkg - Mac OS X Installer Package
+PKL  - Pickle file(for python(programming language) I/O)
+PKT  - Fido message packet
+PL - Perl source code file.
+PL1  - Room plan
+PL2  - Palette
+PL3  - Chart palette
+PLA  - Playlist
+PLB  - FoxPro library
+PLC  - Add-in file (functions - macros - applications)
+PLD  - PhotoLine Document
+PLE  - Encrypted Chat Log
+PLI  - PL/I source file
+PLIST  - Mac OS Property List, also used on iOS, NeXTSTEP, and GNUstep
+PLL  - Prelinked library
+PLM  - DisorderTracker2 music module
+PLN  - Spreadsheet
+PLP  - Playlist
+PLS  - Playlist file
+PLSC  - Messenger Plus! Script Pack
+PLSK  - Messenger Plus! Skin Pack
+PLT  - HPGL plotter file vector graphics
+plugin - Mac OS X Plug-in
+PLY  - Data
+PLY2  - Data
+PM - Perl Module.
+PM3 - PageMaker 3.0 document.
+PM4 - PageMaker 4.0 document.
+PM5 - PageMaker 5.0 document.
+PM6 - PageMaker 6.0 document.
+PMC  - Graphics
+PMI  - OS/2 V3 SVGA PMI-File
+PMM  - Program file
+PMP  - PhotoMorph Project
+PN3  - Printer device driver
+PNF  - Pre-compiled Setup Information file
+PNG - Portable Network Graphic file.
+PNM  - PBM Portable aNy Map graphics file
+PNT  - Macintosh painting
+POF  - Altera FPGA programming file (External Flash)
+POH  - Optimized .goh file
+POL - System Policy file for Windows NT.
+POLICY  - Group Policy File
+POLY  - Data
+POP  - Messages index
+POT - Microsoft PowerPoint design template.
+POV  - Raytraced graphics image
+POW  - Power Chords instrument/song file
+PP  - Amiga archive
+PPA  - Microsoft PowerPoint Add-in
+PPB  - Button bar for Print Preview
+PPD - PostScript Printer description file used in Macintosh and Windows operating systems to provide printer specific features to a driver.
+PPJ  - Premiere Project
+PPK  - Archive (using for many distributives)
+PPL  - PolaroidPalettePlus ColorKey device driver
+PPM  - Graphics format (Portable PixelMap)
+PPO  - Preprocessor output
+PPP  - Publication
+PPS - Microsoft PowerPoint slide show.
+PPSX  - MS Office Open-XML Auto-Play Presentation
+PPT - Microsoft PowerPoint presentation(default extension).
+pptx - PowerPoint Open XML Presentation
+PR1  - Packrat 4.0 data file
+PR2  - Packrat 4.x data file
+PR3  - PostScript printer driver
+PRC  - container format (envelope) for Palm OS databases
+PRD  - Printer driver
+PRE  - Presentation
+prf - Outlook Profile File
+PRG  - Program source code (e.g. Clipper language)
+PRI  - Printer definitions
+PRJ  - Borland C++ IDE project file
+PRK  - SimPark Saved File
+PRM  - Parameters
+PRN - A print file created as the result of "printing to file".
+PRO  - Profile
+PROJ  - Project File (Interface Builder)
+PROPERTIES  - Java properties file
+PROTO  - Message specification
+PRR  - The Perfect Resume data file
+PRS  - Norton Viewer DLL file
+PRT  - P-CAD component
+PRX  - Compiled program
+PS - PostScript file.
+PSA  - Archive (Pretty Simple Archive)
+PSB  - For big Photoshop files
+PSD - Native Adobe Photoshop format.
+PSE  - see PSEG
+PSEG  - Bitmap graphics
+PSF  - Outline PostScript printer font
+PSM  - Music format (Protracker Studio Module)
+PSN  - Presentation file for Sound Script
+PSP - Paint Shop Pro image.
+pspimage - PaintShop Pro Image
+PSQ  - Premiere Sequence
+PST - Personal Folder File for Microsoft Outlook.
+PSV  - PlayStation 2/PlayStation 3 saved game
+PSW  - File w/ passwords for any program/game
+PT  - Game crack
+PT3  - Device driver
+PT4  - Template
+PT5  - Aldus PageMaker 5.0 publication template
+PTB  - Power Tab Software
+PTF  - PlayStation Portable Theme file
+PTG  - Panasonic Title Graphics
+PTL  - Premiere Title
+PTM  - Macro
+PTN  - Pattern
+PTR  - OS/2 cursor image file
+PTU  - Performer Terrain Utilities
+PTX  - Pro Tools 10 session file
+PUB - Microsoft Publisher document.
+PUD  - Warcraft II Map file
+PUT  - Archive
+PVD  - Script
+PVK  - Private Key File
+PVL  - Library
+PVM  - Texture Files
+PVT  - Local Fidonet pointlist
+PW  - Text file
+PWF  - Workflow Files
+PWK  - Workspace File
+PWL  - Password List
+PWP  - Text document
+PX  - Paradox 3.0 file
+PXP  - 3DS Process file
+PXR  - Pixiar Picio
+PXZ  - Compressed file to exchange media elements
+py - Python Script
+PYC  - Compiled Python module
+PYD  - Python DLL
+PYI  - Cognos Powerplay Model
+PYO  - Optimized compiled Python module
+PZD  - Default settings
+PZI  - Graphics format
+PZO  - Overlay file
+PZP  - Palette
+PZS  - Settings
+PZT  - Transfer file
+PZX  - Swap file
+Q0  - Q0 graphic file
+Q3S  - Data
+QAG  - Quick Access Group
+QAP  - Application
+QB  - Tony Hawk's Pro Skater series scripting files
+QBB  - Quickbooks Backup File
+QBE  - Saved query (Query By Example)
+QBO  - Compiled query
+QBW  - Spreadsheet
+QCH  - Qt Compressed Help
+QCP  - Mp3 extension on Motorola ringtones
+QDF  - Data file
+QDK  - Backup of startup files created by Optimize
+QDn  - Data file - segment n
+QDR  - Configuration file
+QDV  - Graphics file
+QEF  - Query file
+QFX  - Quicken-specific implementation of the OFX specification
+QG3  - Data
+QHC  - Qt Help Collection
+QHCP  - Qt Help Collection Project
+QHP  - Qt Help Project
+QIF - Quicken Import file.
+QIZ  - World book quiz
+QLB  - Quick library
+QLC  - ATM Type 1 fonts script
+QLP  - Printer driver
+QM4  - Options or services file
+QPR  - Generated query program
+QPX  - Compiled executable QBE query file
+QRS  - Equation Editor support file
+QRT  - Graphics format (QRT ray tracing)
+QRY  - Query
+QT  - QuickTime movie (animation)
+QTVR  - QuickTime VR Movie
+QUOX  - Question Object Document
+QVD  - QlikView Document (Data)
+QVW  - QlikView Document (View)
+QWK  - QWK reader message file
+QXD  - Document
+QXL  - Element library
+R  - Ratfor file
+R00, R01, ...  - Part of a multi-file RAR archive
+R2D  - Reflex 2 datafile
+R3D  - Red Raw Video (raw video data created with a Red camera)
+R8  - Raw graphics file (one byte per pixel) plane one
+R8P  - PCL 4 bitmap font file
+ra - Real Audio File
+RA0, RA1, ...  - Part of a multi-file RAR archive
+RAD  - 2-op FM music
+RAL  - Remote Access Language file
+RAM - RealAudio Metafile.
+RAR - RAR compressed archive created by Eugene Roshall.
+RAS  - Graphics format
+RAT  - Datafile (RATS)
+RAW - Raw File Format.
+RAY  - Rayshade
+RB  - Ruby Script file
+RBF  - Datafile
+RBXL  - ROBLOX "level"
+RBXM  - ROBLOX "model"
+RC  - Configuration file
+RCG  - Netscape newsgroup file (netsc.rcg)
+RData  - Data file
+RDF  - Compiled UIC source code
+RDI  - Device-independent bitmap file (RIFF RDIB format)
+RDO - Raster Document Object. Proprietary file type used on Xerox
+RDP  - RDP connection
+RDX  - Datafile
+REC  - Archivation protocol
+RED  - Path info
+REF  - Cross-reference
+REG - Registry file that contains registry settings.
+REL  - Foreground job relocatable file
+REM  - Remarks definition
+REP  - QWK reader reply file
+REQ  - File request
+RES  - Compiled resource
+REV  - Revision file
+REX  - PharLab executable file (old format)
+REZ  - Resource file
+RF  - Sun raster graphics file
+RFM  - Report ForMat (script for customized report)
+RFT  - DCA/RFT Revisable Format Text file
+RGB  - SGI RGB image file (RAW)
+RGX  - Symbol tables etc. info
+RH  - Resource header file
+RHistory  - Command history logfile
+RI  - Data
+RIB  - Graphics (Renderman Interface Bytestream)
+RIC  - Fax
+RIF  - RIFF bitmap graphics (Resource Interchange File Format)
+RIP  - TeleGrafix Remote Imaging Protocol
+RIX  - Graphics (ColoRIX Image File)
+RL4  - Bitmap graphics
+RL8  - Bitmap graphics
+RLA  - Wavefront raster image file
+RLB  - Data hgw.rlb
+RLC  - Graphics 1bit/pixel scanner output
+RLD  - Norton Commander 5.0 temp file
+RLE  - Utah Run Length Encoded rasterfile graphic file
+RLZ  - REALIZER source code file
+RM - RealAudio video file.
+RMB  - data
+RMI  - Windows alternate synthesized sound format
+RMK  - Make file
+RMVB  - RealMedia Variable Bitrate
+RN  - XPL program for Nota Bene users
+RNA  - lime Network Real Native Application File
+RND  - Rendering Slide
+Rnn  - Multi volume RAR archive
+RNO  - Runoff file
+ROL  - FM music Adlib Music File
+rom - N64 Game ROM File
+ROO  - CODASYL DBMS Database Root
+RPB  - Data report file used by CP Backup
+RPD  - Database
+RPF  - AutoCAD pattern
+RPL  - Text document
+RPM - RedHat Package Manager.
+RPT  - Report file used by many applications
+RRD  - Reduced Resolution Dataset
+RS  - Data file
+RS_  - Resource fork of a Macintosh file
+RSC - Standard resource file.
+RSL  - Application - Project
+RSP  - Response file (text file containing input expected by e.g. LINK)
+rss - Rich Site Summary
+RST  - reStructuredText
+RSY  - FLEXIT Multishot Survey Raw Data file
+RTF - Rich Text Format.
+RTFD  - RTF-Packet
+RTL  - HP RTL graphic file
+RTP  - RTPatch software update package data file
+RTS  - Realizer executable file
+RUL  - Echo-conference rules
+RUN  - PC Tools for Windows batch file
+RUNZ  - pseudo-executable file, used in Portable Apps and software installers for Super OS
+RUS  - Russian text
+RV  - Mobile pricelist data file
+RVF  - 
+RVW  - Review
+RWS  - Borland Resource Workshop symbol file
+RWX  - Criterion RenderWare
+RWZ  - Microsoft Outlook Rules Wizard File
+RXD  - Reflex 1 datafile
+RZK  - File Crypt password file
+RZX  - File Crypt encrypted file
+S  - ASSEMBLY source code file
+s PWL - Windows Password list file.
+S$$  - Temporary sort file
+S19  - Motorola ASCII format of executables
+S1K  - S1000 Simnet Format
+S3I  - Digiplayer/ST3 Sample File
+S3M  - Music (16 channels)
+S7I  - Seed7 library / include file
+SA?  - Packed mail
+SAB  - Saber file
+SAF  - see SAIF
+SAFE  - SafeIT Encrypted
+SAIF  - Spatial Archive Interchange Format
+SAL  - Datafile
+SAM  - Ami Pro data file
+SAN  - LucasArts' SMUSH/INSANE animation
+SAP  - Atari SAP music format
+SAR  - Archive
+SAT  - ACIS
+SATS  - Static source
+sav - Saved Game
+SAVER  - Screensaver
+SB  - Audio file (signed byte)
+SBD  - Storyboard
+SBH  - Header
+SBI  - Sound Blaster Instrument file (Creative Labs)
+SBK  - Emu SoundFont Bank (AWE32 Bank)
+SBL  - Stony Brook Pascal library
+SBP  - DML program
+SBR  - Support file
+SBT  - Notes related to record
+SC  - Display driver
+SC3  - Renamed dBASE III screen mask file
+SC4  - Saved City
+SC6  - Game Scenario
+SCA  - Datafile
+SCC  - Text file
+SCD  - SCODOL film recorder (Scan Conversion Object Description Language)
+SCF  - Standard Chromatogram Format
+SCH  - Project schedule
+SchDoc  - Circuit Design Schematic
+SCI  - Fax
+SCM  - Scheme source code file
+SCN  - SCeNe RTrace
+SCO  - High score
+SCP  - Script
+SCR - Screen Saver file.
+SCT  - Additional (FPT) screen description file
+SCTOR  - Raster graphics format used by some very obscure custom operating systems
+SCX  - Chart
+SCY  - Security file
+SD  - Sound Designer I audio file
+SD7  - Seed7 source file
+SDA  - Fidonet's Software Distribution Network file archive description
+SDC  - Video
+sdf - Standard Data File
+SDI  - Software Distribution Network Info file
+SDK  - Roland S-550/S-50/W-30 Disk Image
+SDL  - Alias Wavefront Scene Description Language
+SDM  - Signed Differential Mapping brain maps and/or distributions
+SDML  - Spacial Data Modeling Language
+SDN  - Software Distribution Network compressd file archive
+SDR  - SmartDraw File
+SDS  - MIDI Sample DUMP Standard File
+SDTS  - Spatial Data Transfer Standard
+SDW  - Ami Draw Symbol File
+SDX  - Sample DUMP Exchange File
+SEA - Self extracting archive for Macintosh Stuffit files.
+SEC  - compressed file
+SED  - Self extraction directive file
+SEN - Scifer Internal Archive Type 
+SEP  - Printer separator page
+SEQ  - ABI Text Sequence
+SES  - Session info
+SET  - Configuration file
+SF  - IRCAM Sound File
+SF2  - Emu SoundFont Bank v2.0 file
+SFB  - Configuration file
+SFD  - SoundStage Data file
+SFF  - Standard Flowgram Format
+SFI  - Graphics
+SFL  - PCL 4 bitmap font (landscape)
+SFN  - Font
+SFO  - Bitstream font file - fontware format
+SFP  - PCL 4 bitmap font
+SFR  - Sonic Foundry Sample Resource
+SFS  - PCL 5 scalable font file
+SFT  - Screen font
+SFX  - Renamed dBASE III screen mask file
+SG1  - Graphics
+SGF  - Document with graphics
+SGI  - Graphics file
+SGML - Standard Generalized Markup Language.
+SGP  - Statistics
+SGT  - Save/get keyboard macro
+SH - Unix shell script.
+SH3  - Presentation
+SH3D  - Sweet home 3d file
+SHAR  - Archive
+SHB  - Background
+SHG  - Segmented Hyper Graphics
+SHK  - Apple II archive
+SHM  - Shell macro
+SHP  - Shape file and sdiv id="PYI"> PYIource file for text fonts 
+SHR  - see SHAR
+SHT  - HTML format for WWW
+SHTML - HTML file that supports Server Side Includes(SSI).
+SHW  - Presentation
+SHX  - Shape entities 
+SIB  - Sibelius file
+SID  - Sound Interface Device file format
+SIF  - Setup Installation Files info
+SIG  - Current program settings
+SIK  - Backup file (Sicherungskopie)
+SIM  - Simon document file - Simon instruction software editor
+SIS  - symbian file
+SIT - Compressed Macintosh Stuffit files.
+SITX - StuffIt (Macintosh) 
+SKB - Google Sketchup Backup File 
+SKP  - Google SketchUp file
+SKY  - SYLK Spreadsheet file (used by Multiplan)
+SL  - S-Lang source code file
+SLB  - P-CAD library (symbols)
+SLC  - SALT (script from Telix) compiled code
+SLD  - Slide
+SLDASM  - Assembly
+SLDDRW  - Drawing
+SLDPRT  - Part
+SLI  - Slide
+SLK  - Microsoft Excel import format
+SLL  - Sound data file
+sln - Visual Studio Solution File
+SLP  - SLP command file created by SRCCOM
+SLT  - SALT Script Application Language for Telix script source
+SLV  - Solution for any game
+SM  - Maillist
+SMC  - Super MagiCom SNES ROM image
+SMCLVL  - Secret Maryo Chronicles Level
+SMD - SEGA mega drive ROM file.
+SMF  - Fax
+SMK  - Smacker Video Format (RAD Video)
+SML  - System Macro Library
+SMM  - Ami Pro Macro File
+SMN  - Font (ParaGraph's WorkScript format)
+SMP  - Sample (sound file)
+SMPL  - Data
+SMS  - MSTS Sound management system file
+SMT  - Text file
+SN  - Compressed song file
+SND  - Digitized sound file
+SNDB  - SQLNotes database
+SNG  - Song (midi sound)
+SNO  - SNOBOL4 source code file
+SNP  - Book-shelf for .BOO
+SNX  - Saved game file for StarCraft: Brood War
+SO  - shared object, dynamically linked library
+SOAR  - Soar Production file
+SOF  - Altera FPGA programming file (internal RAM)
+SOL  - Solution e.g. game walkthroughs
+SOM  - Network serial numbers
+SON  - Song
+SOU  - Temporary BATCH file
+SP  - Archive (unix)
+SPC  - Program
+SPD  - Scalable font
+SPF  - Slide presentation file
+SPG  - Glossary
+SPI  - Graphics (Siemens and Philips scanner)
+SPIFF  - Still Picture Interchange File Format
+SPIN  - Spin source file
+SPL  - Archive
+SPM  - Data wp{wp}.spm
+SPP  - Printer file
+SPR  - Document letter
+SPS  - Exported SyncBack profile
+SPT  - Data support file (MITAC disk/system management utility pack)
+SPW  - Worksheet
+SPX  - Compiled executable screen file
+SQD  - Squish message base
+SQI  - Squish message base index
+sql - Structured Query Language Data File
+SQM  - Windows Live Messenger log file
+SQN  - Note file
+SQZ  - Archive
+SRC  - Source code
+SRF  - Sun Raster File graphics file
+SRP  - Script
+srt - SubRip Subtitle File
+SS  - Bitmap graphics
+SSC  - Celestia Solar System Catalog file
+SSD  - Datafile
+SSF  - Graphic file
+SSG  - Saved game
+SSIF  - Stereoscopic Interleaved file
+SSP  - Datafile
+SSR  - FLEXIT Singleshot Survey Raw Data file
+SST  - AVHRR graphic file
+SSV  - Spreadsheet viewer file
+ST  - Instrument library
+STA  - Data file
+STB  - Symbol table file
+STC  - Celestia Star Catalog file
+STD  - State Transition Diagram graphic file
+STEAMSTART  - STEAMSTART file
+STF  - Archive
+STI  - OpenOffice.org XML presentation template
+STK  - eBook
+STL  - Stereolithography Interface Format
+STM  - Music format (4 channels) (Scream Tracker Module)
+STO  - Pascal stub OBJ file
+STP  - Subtitler Project
+STR  - Gate3 table structure file
+STS  - Music format (Scream Tracker Song)
+STU  - Studio Project
+STUFF  - EVE Online compressed file archive
+STW  - Data file
+STX  - Electronic book
+STY  - Ami Pro Template (Style); used by other programs for `styles`
+SU?  - Packed mail
+SUB  - Subtitle format
+SUF  - Sony camera configuration file (setup.suf)
+SUI  - SUIT library
+SUM  - Summary
+SUN  - Sun rasterfile graphics file
+SUO  - Solution User Options
+SUP  - Subtitle file (Blu-ray encapsulated container)
+SV6  - Saved Game File
+SVC  - Represents the ServiceHost instance hosted by Internet Information Services
+SVD  - Autosave file for document
+SVG - Adobe scalable vector graphics file.
+SVQ  - MRC-Pro sequencers music format
+SVS  - Autosave file for style sheet
+SVW  - Super Video Windows
+SVX  - Interchange, 8SVX/16SV
+SVY  - FLEXIT Survey data
+SW  - Raw Signed Word (16bit) data
+SWF - Shockwave Flash file by Macromedia.
+SWG  - SWIG source code
+SWP - DOS swap file.
+SWT  - Hump Routes File
+SXC  - OpenOffice.org XML spreadsheet
+SXD  - OpenOffice.org XML drawing
+SXG  - OpenOffice.org XML master document
+SXI  - OpenOffice.org XML presentation
+SXM  - OpenOffice.org XML formula
+SXP  - 3DS Process file
+SXW  - OpenOffice.org XML text document
+SY1  - SmartPix symbol library
+SY3  - Harvard Graphics format
+SYD  - Backup of startup files created by QEMM (?) autoexec.syd
+SYG  - Monitor and handler files created by SYSGEN
+SYM  - Compiler symbolic information file
+SYN  - SDSC Synu image file
+SYS - Windows system file used for hardware configuration or drivers.
+SYW  - Graphics file (symbol)
+SZPROJ  - SZInstallSystem Project
+T  - Archive without compression (tape)
+T$M  - AVG scan log files[2]
+T?H  - Turbo Help file (Pascal, C, Assembler, ...)
+T2B  - Bookeen Cybook thumbnail
+t2flow  - Taverna 2 workflow definition
+T2L  - True2Life file format
+T44  - Temporary file for Sort or Index
+T64  - Program
+TAG  - Query tag name
+TAH  - Help file for Turbo Assembler
+TAL  - Adobe Type Align
+TAP  - Tape file
+TAR - Unix Tape Archive.
+tar.gz - gzipped tar file 
+tax2012 - TurboTax 2012 Tax Return
+TAZ  - Archive
+TB - Tabbery Virtual Desktop Tab file 
+TB1  - Font file
+TB2  - Font file
+TBF  - Fax
+TBK  - FOXPRO template backup file
+TBL  - Short for Table
+TBR  - Norton Desktop custom toolbar
+TBS  - Text elementsï¿½?? (Textbausteine)
+TBX  - Table
+TBZ  - Archive
+TC  - Configuration
+TCH  - Help file
+TCL  - Tool Command Language source code
+TCT  - Drawing Template
+TCW  - Native Drawing File
+TD  - Config from Turbo Debugger
+TD0  - Compressed diskette in a file
+TD2  - Configuration file
+TDB  - Database
+TDDD  - Imagine Object File Format
+TDF  - Speedo font file
+TDH  - Help file for Turbo Debugger
+TDK  - Keystroke recording file
+TDR  - Contens of Arvid tape
+TDS  - Symbol table
+TDT  - Thumbnail data
+TDW  - Configuration file
+TEC  - Data
+TEF  - Fax
+TEL  - Host file
+TEM  - Input template
+TERM  - Terminal File
+TES  - TECO macro file (source form)
+TET  - Tetris results
+tex - LaTeX Source Document
+TEXT  - Text file
+TF  - Configuration
+TFA  - Area file
+TFC  - Catalogue file
+TFF  - self executing TansForm dialogue
+TFH  - Help file for Turbo Profiler
+TFM  - Tagged font metric file
+TFS  - Statistical information
+TG1  - Project file
+TGA - Targa bitmap.
+tgz - gzipped tar file 
+TH?  - Packed mail
+that enables saving text with formatting information.
+THE  - Windows'95 Desktop Theme
+thm - Thumbnail Image File
+THP  - Nintendo proprietary video format
+THR  - ThredWorks Embroidery Format
+THS  - Thesaurus dictionary
+TIB - Acronis True Image backup 
+TIC  - FTN special file with assotiated file description
+tif - Tagged Image File
+TIFF - Tagged Image File Format. Universal graphics format supported
+TIL  - Fuzzy logic knowledge base
+TIP  - Digital Signage Presentation
+TIS  - Tile set
+TJL  - Backup file
+TLB  - Reference table
+TLC  - Compiled Tool Command Language source code
+TLD  - Disk Image
+TLH  - Typelib Generated C/C++ Header
+TLP  - Project
+TLX  - Website builder
+TM2  - Typical Meteorological Year data (new)
+TMF  - Tagged Font Metric file
+TMO  - ZTG global optimizer default output file
+TMP - Windows temporary file.
+TMS  - TeleMate compiled script
+TMY  - Typical Meteorological Year data (old)
+TMY2  - Typical Meteorological Year data (new)
+toast - Toast Disc Image
+TOC  - Table Of Contents text file (ASCII)
+TOCG  - TorgaNET Diplomatic Cables
+TOG  - TorgaNET
+TOK  - Borland C++ 4.x reserved word list
+TOPC  - TopicCrunch SEO Project file holding keywords, domain and search engine settings (ASCII)
+torrent - BitTorrent File
+TOS  - Character file
+TP  - Session-state file
+TP3  - Template
+TPB  - Downloadable PCL Soft font file backup
+TPC  - File produced when an inter-Topicscape topic link file is exported to Windows
+TPF  - Downloadable PCL Soft font file
+TPH  - Help file
+TPL  - Resident units library
+TPOLY  - Data
+TPP  - Protected Mode Units
+TPT  - Digital Signage Presentation Template
+TPU  - Borland Pascal DOS Mode Library
+TPW  - Borland Pascal Windows Library
+TPZ  - Archive
+TR  - Man page input suitable for troff -man
+TR2  - Session-state settings
+TRASH  - File found during a file scan as bugged
+TRC  - Debug support file
+TRD  - Datafile
+TRE  - Directory tree file
+TRIA  - Data
+TRIB  - Data
+TRIF  - Tiled Raster Interchange Format
+TRK  - Track (i.e. video sequence), used by many games
+TRM  - Terminal settings
+TRN  - Translation support file
+TRS  - Executable file
+TRU  - True Basic source file
+TRW  - Session-state settings
+TRY  - Typical Meteorological Year data (variant)
+TS  - MPEG Transport Stream
+TSE  - Data
+TSK  - Microsoft Multimedia Task Application
+TSL  - Exported Schedule
+TSM  - Turbo Assembler Manual
+TST  - Printer test file
+TSV  - Tab Separated Values
+TTF - True Type font.
+TU?  - Packed mail
+TUD  - The Ultimate Draw file
+TUT  - Tutorial
+TV  - Table view settings
+TVF  - Table view settings
+TVn  - Overflow file above insert point in Doc n
+TXC  - Test Configuration Format
+TXF  - Tax eXchange Format
+TXI  - Support file
+TXT - Text Format.
+TXW  - Yamaha TX-16W Wave File
+TY  - TiVo movie
+TYM  - Time Stamp (PageMaker 4)
+TZ  - Archive
+TZB  - Archive
+TZL  - Tanzzle pattern file
+TZX  - Tanzzle image file
+U3D  - Model file format
+U8  - Sample
+UB  - Raw Unsigned Byte (8bit) data
+UC2  - Archive
+UCN  - New archive
+UCS  - Unknownsoft Service Pack (mainly for Shadow OS 2009)
+UDF - Uniqueness Definition File. Used for Windows unattended installations.
+UDIWWW  - bookmark data
+UDO  - Data
+UDW  - Raw Unsigned DWord data
+UE2  - Encrypted archive
+UFI  - data
+UFO  - graphic file
+UHA - Ultra High Archive Compression 
+UHS  - Universal Hint System (binary file)
+UI  - Espire source code file
+UIF  - Long prompts for windows
+UIH  - Espire header file
+UL  - ULAW audio file
+ULD  - Information about uploaded files
+ULF  - data
+ULT  - Music
+UMB  - Backup file
+UMP  - Umple UML Programming Language Format
+UNF  - Universal NES Image Interchange File Format
+UNI  - Datafile
+UNIF  - Universal NES Image Interchange File Format
+UNV  - Text file containing finite elements nodal coordinates and more See notes
+UNX  - Text file containing UNIX specific info
+UOML  - UniqueObject Markup Language (UOML) is a XML-based markup language
+UOP  - Uniform Office Format presentation
+UOS  - Uniform Office Format spreadsheet
+UOT  - Uniform Office Format text
+UPD  - Update data
+UPO  - Compiled update data
+URL  - Internet Shortcut (URL)
+URT  - Utah Raster Toolkit
+USE  - Log file
+USP  - Printer font with USASCII extended character set
+USR  - User database file
+UST  - UTAU vocal track
+UT!  - datafile
+UTZ  - Mobile Phone Theme
+UU  - Encoded file (ASCII)
+UUE - UU encoded file.
+UW  - Raw Unsigned Word 16bit data
+UWF  - UltraTracker WaveSample
+V  - Consistency check support file
+V1, V2, ...  - Split parts of a whole file
+V10  - Data
+V2D  - Voucher design file
+V8  - Covox 8bit file
+VAI  - multimedia
+VAL  - Validity checks and referential integrity
+VALA  - Sourcecode
+VAN  - Animation
+VAP  - Value Added Process
+VAR  - Variable file
+vb - VBScript File
+VBPROJ  - Visual Basic .Net project file
+VBR  - Visual Basic Custom Control file
+VBS  - VBScript script file
+VBX - Microsoft Visual basic extension.
+VBZ  - Visual Basic Setup Wizard Template
+VC  - Include file with color definitions
+VC6  - Graphite - 2D and 3D drafting
+VCA  - Visual Clip Art
+vcd - Virtual CD
+vcf - vCard File
+VCR  - VCR drivers for Arvid
+VCW  - Visual workbench information
+VCX  - Spreatsheet
+vcxproj - Visual C++ Project
+VDA  - Bitmap graphics
+VDO  - Story Board video image
+VDR  - Drawing
+VEG  - Vegas Project
+VEW  - GroupWise for Windows
+VF0  - Database file
+VFA  - FontLab Database file
+VFD  - Virtual Floppy Disk
+VFM  - Ventura Font Metrics file
+VFN  - Voting Form for Customers
+VGA  - VGA display driver
+VGD  - VGA display driver
+VGM  - Video Game Music audio format
+VGR  - Graphics file
+VHD  - Virtual Hard Disk
+VI  - LabVIEW Virtual Instrument
+VIA  - VIA Document Project
+VIC  - see VICAR
+VICAR  - Graphics (Video Image Communication and Retrieval)
+VID  - Bitmap graphics (YUV12C M-Motion Frame Buffer)
+VIF  - see VIFF
+VIFF  - Khoros Visualization Image File Format
+VIK  - Graphics format (VIKING)
+VIM  - Vim script file
+VINF  - data
+VIR  - Virus or infected file
+VIS  - VIS graphics file
+VIV - Archive format used to compress data for several video games. 
+VLM  - Vellum, Vellum 2D, Vellum Draft, Vellum 3D, DrawingBoard
+VM - Virtual Memory file.
+VMC  - Virtual memory configuration
+VMDK  - Virtual Disk file
+VMF  - Font characteristics
+VMG  - Nokia message file format
+VMS  - Text file containing VMS specific info
+VO  - Include file with object definition
+vob - DVD Video Object File
+VOC  - Sound format (Creative Lab's Sound File)
+VOF  - Object folder
+VOL - unknown archive 
+VOP  - Visual Orangator Project
+VOX  - Dialogic adpcm file
+VP  - 3DS Video posting
+VPF  - Vector Product Format
+VPG  - Graphics file
+VPH  - Virtual Pascal Help
+VPI  - Virtual Pascal Unit
+VQA  - Vector Quantized Animation
+VRM  - Overlay file
+VRML  - Virtual Reality Modeling Language
+VRP  - Project
+VRS  - Video Resource e.g. video device driver
+VS  - Vellum Solids
+VSA - Altiris Virtual Software Archive 
+VSD  - Diagram
+VSM  - Visual Simulation Model
+VSP  - Sprite
+VSQ  - Vocal track data
+VSS  - SmartShapes file
+VST  - Truevision Vista graphics file
+VSTO  - Microsoft Office add-in file
+VUE  - Animation
+VW  - Text file
+VWR  - File viewer file
+VWX  - CAD File
+VXD - Windows 9x virtual device driver.
+VZT  - Temporal database file
+W  - Word chart file
+W01  - Yamaha SY-series wave files
+W30  - Printer font
+W31  - Startup file
+W3A  - Warcraft III Abilities Export File
+W3B  - Warcraft III Destructables Export File
+W3D  - Warcraft III Doodads Export File
+W3G  - Warcraft III Replay File
+W3H  - Warcraft III Buffs Export File
+W3M  - Warcraft III Map
+W3N  - Warcraft III Campaign
+W3O  - Warcraft III Object Data Export File
+W3P  - Warcraft III Save
+W3Q  - Warcraft III Upgrades Export File
+W3T  - Warcraft III Item Export File
+W3U  - Warcraft III Unit Export File
+W3V  - Warcraft III Save
+W3X  - Warcraft III Expansion Map
+W3Z  - Warcraft III Save
+W40  - renamed system files (AUTOEXEC.BAT, COMMAND.COM, CONFIG.SYS,DBLSPACE.BIN.DRVSPACE.BIN,MSDOS.SYS) of previous MS-DOS version
+W44  - Temporary file for Sort or Index
+W95  - Something for Windows95
+WAD  - Where's All the Data?
+WAG  - Yard Contents File
+WAI  - Warcraft III AI Data File
+WAR  - Java Web Archive
+WAS  - ProComm Script File (source code)
+WAV - Waveform sound file.
+WAX - Wavexpress A ZIP alternative optimized for packages containing video, allowing multiple packaged files to be all or none delivered with near instantaneous unpacking via NTFS file system manipulation. 
+WB1  - Notebook
+WB2  - Spreadsheet
+WBF  - Microsoft Windows Batch File
+WBK  - Document/workbook or Microsoft Word backup file
+WBT  - Norton Desktop
+WCD  - Condes Event Data file
+WCH  - WordPerfect Macro Facility
+WCM  - Data transmission file
+WCP  - Product information description
+WD  - InfoSelect Data file
+WDB  - Database
+WDM  - Admin tool connection definition
+WE?  - Packed mail
+WEB  - WEB source code file
+WebOOGL  - Web Object Oriented Graphics Library
+WFB  - Turtle Beach WaveFront Bank
+WFD  - Turtle Beach WaveFront Drum
+WFM  - Form object
+WFN  - Font
+WFP  - Turtle Beach WaveFront Prog.
+WFT  - Web Family Tree
+WFX  - Data file
+WG1  - Worksheet
+WG2  - Worksheet
+WID  - Width table
+WIFI  - Torga OS Wifi Settings Database
+WIM  - Windows Imaging Format
+WIN  - Window file
+WIREFRAME  - Data
+with Adobe Acrobat.
+WIX  - Windows Installer XML
+WIZ  - Page wizard
+WK1  - Spreadsheet
+WK3  - Spreadsheet
+WK4  - Spreadsheet
+WKB  - Document
+WKE  - Spreadsheet
+WKF  - VISI Working file
+WKI  - Spreadsheet format
+WKQ  - Spreadsheet
+WKS  - Spreadsheet
+WKZ  - Spreadsheet format
+WLK  - Graphics
+wma - Windows Media Audio File
+WMC  - Backup of startup files by Windows MathCad autoexec.wmc
+WMDB  - Windows Media Player database
+WMF - Windows Metafile (graphics format).
+WMO  - WoW Map Object
+WMP  - Graphics (Windows Magic Icon Palette)
+wmv - Windows Media Video File
+WN  - Text
+WNF  - Corel Draw Font File
+WOA  - Swap file
+WOC  - Organization
+WOW  - Music (8 channels)
+WP  - Word Perfect Format
+WP5  - Document
+wpd - WordPerfect Document
+WPF  - Fax
+WPG  - WordPerfect Graphics vector graphics
+WPJ  - Watcom C/C++ IDE project
+WPK  - Macros
+WPL  - MediaRack Wave Playlist
+WPM  - Macros
+wps - Microsoft Works Word Processor Document
+WQ!  - Compressed spreadsheet
+WQ1  - Spreadsheet
+WR1  - Spreatsheet
+WRD  - Template
+WRI - Write Document: This is equivalent to RTF, Rich Text Format,
+WRK  - Spreadsheet
+WRL  - VRML file
+WRP  - Archive
+WRS  - Windows Resource e.g. might indicate error if word cannot open
+WS  - APL Worksheet
+WS2  - Text file
+WSD  - Document
+wsf - Windows Script File
+WSP  - Workspace
+WSQ  - Wavelet-packet Scalar Quantization Format
+WSRC  - X-wais source
+WST  - Text file
+WSZ - Winamp Skin.
+WTF  - World of Warcraft Data File
+WTR  - Working Timetable rules file
+WTT  - Working Timetable timings file
+WWB  - Button bar for document window
+WWF  - WWF Document Format
+WWK  - Keyboard layout
+WXH  - Program/Script File
+WXP  - Document
+WZ  - Wizet game archive file
+X  - Archive
+X3D  - x3d and xdart Formats
+XA  - XA audio file
+XAR  - Xara graphics file
+XBE  - Xbox Executable
+XBM  - X11 Bitmap graphics file
+XCF - The GIMP's native image format.
+XCK  - Extended crack file (usually text)
+XCL  - Xtree for Windows Script file
+xcodeproj - Xcode Project
+XDF  - OS/2 extended disk format image
+XDM  - Directory Manipulator for 32-bit Protected Mode
+XE  - Xenon - for Associative 3D Modeling
+XEX  - Xbox 360 Executable File
+XFN  - Printer font
+XFR  - Ventura Publisher Bitmap Editor Font file
+XFT  - 24 pin printer font
+xhtml - Extensible Hypertext Markup Language File
+XI  - Fast Tracker 2 instrument file
+XIF - Wang imaging file. Wang Image Viewer comes with Windows 95/2000.
+XLA  - Add-in macro sheet
+XLB  - Microsoft Excel Toolbar
+XLBL  - extensible Business Reporting Language
+XLC  - Microsoft Excel Chart
+XLD  - Microsoft Excel Dialog
+XLF  - Extensible LADAR Format
+XLK  - Microsoft Excel Archive
+XLL  - Microsoft Excel Dynamic Link Library
+XLM  - Microsoft Excel Macro File
+xlr - Works Spreadsheet
+XLS - Microsoft Excel Spreadsheet.
+XLSB  - Microsoft Excel 2007 Binary Workbook (BIFF12)(Spreadsheets)
+XLSM  - Microsoft Excel 2007 Macro-Enabled Workbook (Spreadsheets)
+xlsx - Microsoft Excel Open XML Spreadsheet
+XLT - Microsoft Excel Template.
+XLV  - Microsoft Excel Module
+XLW  - Microsoft Excel Workbook
+XM  - Fast Tracker 2 extended module
+XMC  - Assisted contact lists file format, based on xml and used in kindergartens and schools
+XMF  - eXtensible Music Format
+XMI  - Compressed eXtended MIdi music
+XML - Extensible markup language.
+XMOD  - Monarch Model
+XMPZ  - XML Miradi Project Zipfile
+XMV  - video
+XNF  - Standard Network File form
+Xnn  - Secondary indexes
+XOF  - RenderMorphics
+XP  - eXtended Pattern
+XPL  - X-Plane system file
+XPM  - X11 Pixel Map graphics file
+XPO  - Microsoft Dynamics AX Export file
+XPS  - Open XML Paper Specification / OpenXPS
+XQT  - Executable file
+XRF  - Cross-reference file
+XSF  - data
+XSL - XML style sheet.
+XSPF  - XML Sharable Playlist Format
+XTB  - External translation table
+XTP  - XTreeGold overlay
+XVF  - Xyngo Video File
+XWD  - X Window System window dump image graphics file
+XWK  - Keyboard mapping
+XWP  - Session
+XX  - Encoded file (ASCII)
+XXE  - Encoded file (ASCII)
+XXX  - Singer Embroidery Format
+XY  - Text file
+XY3  - Text file
+XYW  - Text file
+XYZ  - Molecular coordinates
+Y  - Archive (Amiga)
+YAL  - Data custom/nature.yal
+YC  - Archive
+YLIB  - Yookoo Music Library Backup File
+YMP  - Yast Meta Package
+Ynn  - Secondary index
+YOOKOO  - Yookoo Playlist
+YRD  - Yard Tracks File
+YST  - Data
+yuv - YUV Encoded Image File
+YY  - Bison grammar file
+YZ  - Archive
+Z - Unix compress file 
+Z2 - Zoo Tycoon 2 saved game
+Z3  - Infocom game module
+Z3D  - Zmodeler-file
+Z64  - Nintendo 64 ROM
+Z80  - Snapshot
+ZAD  - ZFax digitized voice file
+ZDG  - Compressed ZiffNet text document
+ZED  - BitTorrent Link
+ZER  - Data file
+ZIP - Compressed Zip archive.
+zipx - Extended Zip File
+ZOO - based on LZW 
+ZYP  - Reason Subtractor Patch File
+ZZT  - ZZT World
+
