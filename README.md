@@ -7,7 +7,7 @@ framework4
 reads text files 
 extracts links
 
-LinkStats - v20.0.13.10.10
+LinkStats - v20.13.10
 =====================
 
 Analyses links
@@ -35,10 +35,11 @@ datamining app for links - pass it any type of text file / url it then will extr
 -Get url page title
 -Treeview display of links/domain/stats
 -URL archive add/clear/export/load
+-Search for pre defined special words
 -And many more
-
-supports 1400+ file extension types by default
-also every country code top level domain and all top level domains
+-Supports almost 2000 file extension types 
+-Supports every country code top level domain 
+-Supports all top level domains
 
 suggest some more features?
 #hakology irc.secfo.org
