@@ -40,6 +40,8 @@ datamining app for links - pass it any type of text file / url it then will extr
 -Supports almost 2000 file extension types 
 -Supports every country code top level domain 
 -Supports all top level domains
+-Command line feature to load URL
+-Multiple instances supported (Through data mine routine)
 
 suggest some more features?
 #hakology irc.secfo.org
